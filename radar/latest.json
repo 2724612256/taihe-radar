@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T17:43:38.433Z",
+  "generatedAt": "2026-10-24T17:46:14.965Z",
   "edition": {
     "id": "ed_2026-10-25_morning",
     "slot": "morning",
     "slotName": "早报",
     "date": "2026-10-25",
-    "at": "2026-10-24T17:43:38.433Z",
+    "at": "2026-10-24T17:46:14.965Z",
     "platforms": [
       {
         "key": "weibo",
