@@ -1,0 +1,41 @@
+name: radar
+
+on:
+  schedule:
+    # 北京时间 07:30 / 12:30 / 18:30（cron 只认 UTC）
+    - cron: '30 23 * * *'
+    - cron: '30 4 * * *'
+    - cron: '30 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 抓取热榜
+        run: node fetch.mjs
+
+      - name: 提交
+        run: |
+          git config user.name "taihe-radar"
+          git config user.email "radar@users.noreply.github.com"
+          git add radar
+          if git diff --cached --quiet; then
+            echo "没有变化"
+          else
+            git commit -m "radar: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
