@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-10-25_evening",
+  "slot": "evening",
+  "slotName": "晚报",
+  "date": "2026-10-25",
+  "at": "2026-10-25T09:15:16.981Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "全国总人口面临跌破14亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%80%BB%E4%BA%BA%E5%8F%A3%E9%9D%A2%E4%B8%B4%E8%B7%8C%E7%A0%B414%E4%BA%BF%23&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "县委书记拒绝张雪为家乡打广告",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A%23&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "致敬抗震救灾中的救援力量",
+          "url": "https://s.weibo.com/weibo?q=%E8%87%B4%E6%95%AC%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE%E4%B8%AD%E7%9A%84%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "虞书欣菜市场红毯",
+          "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%8F%9C%E5%B8%82%E5%9C%BA%E7%BA%A2%E6%AF%AF&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "再也不去理发店去洗头了",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%8D%E4%B9%9F%E4%B8%8D%E5%8E%BB%E7%90%86%E5%8F%91%E5%BA%97%E5%8E%BB%E6%B4%97%E5%A4%B4%E4%BA%86&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "台湾光复81周年",
+          "url": "https://www.douyin.com/hot/2712021",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "S16瑞士轮第二轮赛果",
+          "url": "https://www.douyin.com/hot/2712151",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "直击西藏那曲地震救援一线",
+          "url": "https://www.douyin.com/hot/2712596",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "TES战胜AL",
+          "url": "https://www.douyin.com/hot/2711986",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "张雪机车刷新水上漂吉尼斯纪录",
+          "url": "https://www.douyin.com/hot/2712183",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "IG对阵HLE有哪些看点",
+          "url": "https://search.bilibili.com/all?keyword=IG%E5%AF%B9%E9%98%B5HLE%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "张雪在家乡刷新吉尼斯纪录",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9B%AA%E5%9C%A8%E5%AE%B6%E4%B9%A1%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "人工耳蜗里的声音是什么样的",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E8%80%B3%E8%9C%97%E9%87%8C%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "真实拍视频日常有多烧心",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E6%8B%8D%E8%A7%86%E9%A2%91%E6%97%A5%E5%B8%B8%E6%9C%89%E5%A4%9A%E7%83%A7%E5%BF%83",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "TheShy伤害第一打服德云色",
+          "url": "https://search.bilibili.com/all?keyword=TheShy%E4%BC%A4%E5%AE%B3%E7%AC%AC%E4%B8%80%E6%89%93%E6%9C%8D%E5%BE%B7%E4%BA%91%E8%89%B2",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}
