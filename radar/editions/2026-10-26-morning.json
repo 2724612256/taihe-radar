@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-10-26_morning",
+  "slot": "morning",
+  "slotName": "早报",
+  "date": "2026-10-26",
+  "at": "2026-10-26T01:24:32.733Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "武契奇承认败选",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89%23&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "住房公积金更好用了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%9B%B4%E5%A5%BD%E7%94%A8%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "金牌闪耀赛场人生不惧残缺",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%89%8C%E9%97%AA%E8%80%80%E8%B5%9B%E5%9C%BA%E4%BA%BA%E7%94%9F%E4%B8%8D%E6%83%A7%E6%AE%8B%E7%BC%BA%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "offer1的李浩源怎么了",
+          "url": "https://s.weibo.com/weibo?q=%23offer1%E7%9A%84%E6%9D%8E%E6%B5%A9%E6%BA%90%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "iG与TES双双晋级2-1组",
+          "url": "https://s.weibo.com/weibo?q=iG%E4%B8%8ETES%E5%8F%8C%E5%8F%8C%E6%99%8B%E7%BA%A72-1%E7%BB%84&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "跟着现在就出发玩转九寨沟",
+          "url": "https://www.douyin.com/hot/2713035",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "IG还是太能创造奇迹了",
+          "url": "https://www.douyin.com/hot/2713337",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "引江补汉工程有多硬核",
+          "url": "https://www.douyin.com/hot/2712925",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "巴萨1:2皇马",
+          "url": "https://www.douyin.com/hot/2713248",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "沉浸式感受姆巴佩梅开二度",
+          "url": "https://www.douyin.com/hot/2713349",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "这就是IG",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E5%B0%B1%E6%98%AFIG",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "姆巴佩绝杀巴萨",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BB%9D%E6%9D%80%E5%B7%B4%E8%90%A8",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "中国U17女足小组第一出线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E5%87%BA%E7%BA%BF",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "DK战胜MKOI S16瑞士轮",
+          "url": "https://search.bilibili.com/all?keyword=MKOI%20DK",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "武契奇承认败选",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}
