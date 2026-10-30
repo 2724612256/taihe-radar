@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T10:56:31.871Z",
+  "generatedAt": "2026-10-30T16:46:31.754Z",
   "edition": {
-    "id": "ed_2026-10-30_evening",
-    "slot": "evening",
-    "slotName": "晚报",
-    "date": "2026-10-30",
-    "at": "2026-10-30T10:56:31.871Z",
+    "id": "ed_2026-10-31_morning",
+    "slot": "morning",
+    "slotName": "早报",
+    "date": "2026-10-31",
+    "at": "2026-10-30T16:46:31.754Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "LGDNBW对战EDGM",
-            "url": "https://s.weibo.com/weibo?q=LGDNBW%E5%AF%B9%E6%88%98EDGM&t=31&band_rank=1&Refer=top",
+            "title": "披荆斩棘成团名单",
+            "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "披荆斩棘总决赛妆造",
-            "url": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%B3%E8%B5%9B%E5%A6%86%E9%80%A0%23&t=31&band_rank=2&Refer=top",
+            "title": "黄金",
+            "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "11月这些新规将施行",
-            "url": "https://s.weibo.com/weibo?q=11%E6%9C%88%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C&t=31&band_rank=3&Refer=top",
+            "title": "开创新时代管党治党兴党强党新局面",
+            "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E5%85%B4%E5%85%9A%E5%BC%BA%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "女硕士走失十余年遭性侵一审将宣判",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%A1%95%E5%A3%AB%E8%B5%B0%E5%A4%B1%E5%8D%81%E4%BD%99%E5%B9%B4%E9%81%AD%E6%80%A7%E4%BE%B5%E4%B8%80%E5%AE%A1%E5%B0%86%E5%AE%A3%E5%88%A4%23&t=31&band_rank=4&Refer=top",
+            "title": "小沈阳披荆斩棘冠军",
+            "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%A0%E5%86%9B%23&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "小城良方里海豹是真的",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E9%87%8C%E6%B5%B7%E8%B1%B9%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=5&Refer=top",
+            "title": "美股",
+            "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -56,14 +56,14 @@
           },
           {
             "rank": 2,
-            "title": "解放军霸气喊话菲律宾军机",
-            "url": "https://www.douyin.com/hot/2721276",
+            "title": "攻击-21无人机在四川舰成功起降",
+            "url": "https://www.douyin.com/hot/2721373",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "党的二十届五中全会公报一图速览",
-            "url": "https://www.douyin.com/hot/2721274",
+            "title": "不怕远征难",
+            "url": "https://www.douyin.com/hot/2721730",
             "hot": ""
           },
           {
@@ -74,8 +74,8 @@
           },
           {
             "rank": 5,
-            "title": "跨越山海的长征精神回响",
-            "url": "https://www.douyin.com/hot/2721162",
+            "title": "落日与风能发电机同框太治愈",
+            "url": "https://www.douyin.com/hot/2721515",
             "hot": ""
           }
         ]
@@ -86,32 +86,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "中共中央举行新闻发布会",
-            "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
+            "title": "央视记者直击德国总统访华",
+            "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "IG战胜Lyon队内语音",
-            "url": "https://search.bilibili.com/all?keyword=IG%E6%88%98%E8%83%9CLyon%E9%98%9F%E5%86%85%E8%AF%AD%E9%9F%B3",
+            "title": "星游记前传电影启动",
+            "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E6%B8%B8%E8%AE%B0%E5%89%8D%E4%BC%A0%E7%94%B5%E5%BD%B1%E5%90%AF%E5%8A%A8",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "AI攻克全维度挂谷猜想",
-            "url": "https://search.bilibili.com/all?keyword=AI%E6%94%BB%E5%85%8B%E5%85%A8%E7%BB%B4%E5%BA%A6%E6%8C%82%E8%B0%B7%E7%8C%9C%E6%83%B3",
+            "title": "显卡价格连续三天大面积下跌",
+            "url": "https://search.bilibili.com/all?keyword=%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%A4%A9%E5%A4%A7%E9%9D%A2%E7%A7%AF%E4%B8%8B%E8%B7%8C",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "罗小黑战记学前篇开播",
-            "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%B0%8F%E9%BB%91%E6%88%98%E8%AE%B0",
+            "title": "369六届S赛保底八强",
+            "url": "https://search.bilibili.com/all?keyword=369%E5%85%AD%E5%B1%8AS%E8%B5%9B%E4%BF%9D%E5%BA%95%E5%85%AB%E5%BC%BA",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "07后极繁主义爆改宝剑嫂",
-            "url": "https://search.bilibili.com/all?keyword=07%E5%90%8E%E6%9E%81%E7%B9%81%E4%B8%BB%E4%B9%89%E7%88%86%E6%94%B9%E5%AE%9D%E5%89%91%E5%AB%82",
+            "title": "攻击21首次在四川舰起降",
+            "url": "https://search.bilibili.com/all?keyword=%E6%94%BB%E5%87%BB21%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E8%B5%B7%E9%99%8D",
             "hot": ""
           }
         ]
