@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T16:46:31.754Z",
+  "generatedAt": "2026-10-31T02:33:34.312Z",
   "edition": {
     "id": "ed_2026-10-31_morning",
     "slot": "morning",
     "slotName": "早报",
     "date": "2026-10-31",
-    "at": "2026-10-30T16:46:31.754Z",
+    "at": "2026-10-31T02:33:34.312Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,14 +14,14 @@
         "items": [
           {
             "rank": 1,
-            "title": "披荆斩棘成团名单",
-            "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&t=31&band_rank=1&Refer=top",
+            "title": "英特尔美股暴跌科技股同步大跌",
+            "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E7%89%B9%E5%B0%94%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E7%A7%91%E6%8A%80%E8%82%A1%E5%90%8C%E6%AD%A5%E5%A4%A7%E8%B7%8C&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "黄金",
-            "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=2&Refer=top",
+            "title": "波兰政变",
+            "url": "https://s.weibo.com/weibo?q=%E6%B3%A2%E5%85%B0%E6%94%BF%E5%8F%98&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
@@ -32,14 +32,14 @@
           },
           {
             "rank": 4,
-            "title": "小沈阳披荆斩棘冠军",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%A0%E5%86%9B%23&t=31&band_rank=4&Refer=top",
+            "title": "HLE抽到BLG众人反应",
+            "url": "https://s.weibo.com/weibo?q=%23HLE%E6%8A%BD%E5%88%B0BLG%E4%BC%97%E4%BA%BA%E5%8F%8D%E5%BA%94%23&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "美股",
-            "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
+            "title": "小沈阳披荆斩棘冠军",
+            "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%86%A0%E5%86%9B%23&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,14 +50,14 @@
         "items": [
           {
             "rank": 1,
-            "title": "中共中央举行新闻发布会",
-            "url": "https://www.douyin.com/hot/2719825",
+            "title": "冬天奶茶要挖着吃才满足",
+            "url": "https://www.douyin.com/hot/2720819",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "攻击-21无人机在四川舰成功起降",
-            "url": "https://www.douyin.com/hot/2721373",
+            "title": "中国稀土筹划重大资产重组",
+            "url": "https://www.douyin.com/hot/2721882",
             "hot": ""
           },
           {
@@ -68,14 +68,14 @@
           },
           {
             "rank": 4,
-            "title": "比冬天先来的是一顿热火锅",
-            "url": "https://www.douyin.com/hot/2720702",
+            "title": "二十届五中全会公报一图速览",
+            "url": "https://www.douyin.com/hot/2721274",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "落日与风能发电机同框太治愈",
-            "url": "https://www.douyin.com/hot/2721515",
+            "title": "攻击-21无人机在四川舰成功起降",
+            "url": "https://www.douyin.com/hot/2721373",
             "hot": ""
           }
         ]
@@ -92,26 +92,26 @@
           },
           {
             "rank": 2,
-            "title": "星游记前传电影启动",
-            "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E6%B8%B8%E8%AE%B0%E5%89%8D%E4%BC%A0%E7%94%B5%E5%BD%B1%E5%90%AF%E5%8A%A8",
+            "title": "BLG将对战HLE",
+            "url": "https://search.bilibili.com/all?keyword=BLG%E5%B0%86%E5%AF%B9%E6%88%98HLE",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "显卡价格连续三天大面积下跌",
-            "url": "https://search.bilibili.com/all?keyword=%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%A4%A9%E5%A4%A7%E9%9D%A2%E7%A7%AF%E4%B8%8B%E8%B7%8C",
+            "title": "攻击21首次在四川舰起降",
+            "url": "https://search.bilibili.com/all?keyword=%E6%94%BB%E5%87%BB21%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E8%B5%B7%E9%99%8D",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "369六届S赛保底八强",
-            "url": "https://search.bilibili.com/all?keyword=369%E5%85%AD%E5%B1%8AS%E8%B5%9B%E4%BF%9D%E5%BA%95%E5%85%AB%E5%BC%BA",
+            "title": "HLE战胜G2 S16瑞士轮",
+            "url": "https://search.bilibili.com/all?keyword=G2%20HLE",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "攻击21首次在四川舰起降",
-            "url": "https://search.bilibili.com/all?keyword=%E6%94%BB%E5%87%BB21%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E8%B5%B7%E9%99%8D",
+            "title": "摔了2台iPhoneDuo的跌落测试",
+            "url": "https://search.bilibili.com/all?keyword=%E6%91%94%E4%BA%862%E5%8F%B0iPhoneDuo%E7%9A%84%E8%B7%8C%E8%90%BD%E6%B5%8B%E8%AF%95",
             "hot": ""
           }
         ]
