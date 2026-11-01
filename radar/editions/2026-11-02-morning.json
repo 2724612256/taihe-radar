@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-11-02_morning",
+  "slot": "morning",
+  "slotName": "早报",
+  "date": "2026-11-02",
+  "at": "2026-11-01T16:53:15.242Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "画地为牢",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "影视行业真的来春天了",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9C%9F%E7%9A%84%E6%9D%A5%E6%98%A5%E5%A4%A9%E4%BA%86&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "被一棵棵红军树背后的故事感动了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%80%E6%A3%B5%E6%A3%B5%E7%BA%A2%E5%86%9B%E6%A0%91%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "85花很刻意避免同台了",
+          "url": "https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%BE%88%E5%88%BB%E6%84%8F%E9%81%BF%E5%85%8D%E5%90%8C%E5%8F%B0%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "35岁保时捷女销售登顶全国销冠",
+          "url": "https://s.weibo.com/weibo?q=%2335%E5%B2%81%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%94%AE%E7%99%BB%E9%A1%B6%E5%85%A8%E5%9B%BD%E9%94%80%E5%86%A0%23&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "孙颖莎力克王艺迪闯入决赛",
+          "url": "https://www.douyin.com/hot/2724502",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "请大家选出最适合我的发型",
+          "url": "https://www.douyin.com/hot/2724399",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "广交会中国造智能搭子又上新",
+          "url": "https://www.douyin.com/hot/2724458",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "即梦首个剧本模型上线",
+          "url": "https://www.douyin.com/hot/2723873",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "费兰托雷斯入驻抖音",
+          "url": "https://www.douyin.com/hot/2724358",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "显卡大盘连续5天下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%BE%E5%8D%A1%E5%A4%A7%E7%9B%98%E8%BF%9E%E7%BB%AD5%E5%A4%A9%E4%B8%8B%E8%B7%8C",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "TES vs IG数据前瞻",
+          "url": "https://search.bilibili.com/all?keyword=TES%20vs%20IG%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BB",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "假如世界举办绷住大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E4%B8%96%E7%95%8C%E4%B8%BE%E5%8A%9E%E7%BB%B7%E4%BD%8F%E5%A4%A7%E8%B5%9B",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "火兰朋克锐评LPL淘汰赛签运",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%85%B0%E6%9C%8B%E5%85%8B%E9%94%90%E8%AF%84LPL%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%AD%BE%E8%BF%90",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "西班牙高铁相撞事故始末",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%93%81%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E5%A7%8B%E6%9C%AB",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}

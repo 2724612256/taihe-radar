@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T11:23:47.030Z",
+  "generatedAt": "2026-11-01T16:53:15.242Z",
   "edition": {
-    "id": "ed_2026-11-01_evening",
-    "slot": "evening",
-    "slotName": "晚报",
-    "date": "2026-11-01",
-    "at": "2026-11-01T11:23:47.030Z",
+    "id": "ed_2026-11-02_morning",
+    "slot": "morning",
+    "slotName": "早报",
+    "date": "2026-11-02",
+    "at": "2026-11-01T16:53:15.242Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "W盛典红毯",
-            "url": "https://s.weibo.com/weibo?q=W%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF&t=31&band_rank=1&Refer=top",
+            "title": "画地为牢",
+            "url": "https://s.weibo.com/weibo?q=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "比亚迪销量",
-            "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%94%80%E9%87%8F&t=31&band_rank=2&Refer=top",
+            "title": "影视行业真的来春天了",
+            "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9C%9F%E7%9A%84%E6%9D%A5%E6%98%A5%E5%A4%A9%E4%BA%86&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "专家解读全面从严治党新部署",
-            "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E6%96%B0%E9%83%A8%E7%BD%B2%23&t=31&band_rank=3&Refer=top",
+            "title": "被一棵棵红军树背后的故事感动了",
+            "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%80%E6%A3%B5%E6%A3%B5%E7%BA%A2%E5%86%9B%E6%A0%91%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E4%BA%86%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "金价大跌已婚族开始补买三金",
-            "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%B7%B2%E5%A9%9A%E6%97%8F%E5%BC%80%E5%A7%8B%E8%A1%A5%E4%B9%B0%E4%B8%89%E9%87%91%23&t=31&band_rank=4&Refer=top",
+            "title": "85花很刻意避免同台了",
+            "url": "https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%BE%88%E5%88%BB%E6%84%8F%E9%81%BF%E5%85%8D%E5%90%8C%E5%8F%B0%E4%BA%86%23&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "警方介入谢霆锋被扔荧光棒事件",
-            "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%A2%E9%9C%86%E9%94%8B%E8%A2%AB%E6%89%94%E8%8D%A7%E5%85%89%E6%A3%92%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=5&Refer=top",
+            "title": "35岁保时捷女销售登顶全国销冠",
+            "url": "https://s.weibo.com/weibo?q=%2335%E5%B2%81%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%94%AE%E7%99%BB%E9%A1%B6%E5%85%A8%E5%9B%BD%E9%94%80%E5%86%A0%23&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,32 +50,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "二十届五中全会决定全文发布",
-            "url": "https://www.douyin.com/hot/2724092",
+            "title": "孙颖莎力克王艺迪闯入决赛",
+            "url": "https://www.douyin.com/hot/2724502",
             "hot": ""
           },
           {
             "rank": 2,
+            "title": "请大家选出最适合我的发型",
+            "url": "https://www.douyin.com/hot/2724399",
+            "hot": ""
+          },
+          {
+            "rank": 3,
+            "title": "广交会中国造智能搭子又上新",
+            "url": "https://www.douyin.com/hot/2724458",
+            "hot": ""
+          },
+          {
+            "rank": 4,
             "title": "即梦首个剧本模型上线",
             "url": "https://www.douyin.com/hot/2723873",
             "hot": ""
           },
           {
-            "rank": 3,
-            "title": "黄河流域外贸规模持续扩容",
-            "url": "https://www.douyin.com/hot/2724124",
-            "hot": ""
-          },
-          {
-            "rank": 4,
-            "title": "林丹杯桃田贤斗战胜王正行夺冠",
-            "url": "https://www.douyin.com/hot/2724020",
-            "hot": ""
-          },
-          {
             "rank": 5,
-            "title": "新闻联播",
-            "url": "https://www.douyin.com/hot/2724397",
+            "title": "费兰托雷斯入驻抖音",
+            "url": "https://www.douyin.com/hot/2724358",
             "hot": ""
           }
         ]
@@ -86,32 +86,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "KSG vs 杭州LGD.NBW KPL",
-            "url": "https://search.bilibili.com/all?keyword=KSG%20%E6%9D%AD%E5%B7%9ELGD.NBW",
+            "title": "显卡大盘连续5天下跌",
+            "url": "https://search.bilibili.com/all?keyword=%E6%98%BE%E5%8D%A1%E5%A4%A7%E7%9B%98%E8%BF%9E%E7%BB%AD5%E5%A4%A9%E4%B8%8B%E8%B7%8C",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "Bin赛后采访力挺Viper",
-            "url": "https://search.bilibili.com/all?keyword=Bin%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF%E5%8A%9B%E6%8C%BAViper",
+            "title": "TES vs IG数据前瞻",
+            "url": "https://search.bilibili.com/all?keyword=TES%20vs%20IG%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BB",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "Gr vs MRC IVL",
-            "url": "https://search.bilibili.com/all?keyword=IVL",
+            "title": "假如世界举办绷住大赛",
+            "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E4%B8%96%E7%95%8C%E4%B8%BE%E5%8A%9E%E7%BB%B7%E4%BD%8F%E5%A4%A7%E8%B5%9B",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "日本鸡蛋价格再创新高",
-            "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
+            "title": "火兰朋克锐评LPL淘汰赛签运",
+            "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%85%B0%E6%9C%8B%E5%85%8B%E9%94%90%E8%AF%84LPL%E6%B7%98%E6%B1%B0%E8%B5%9B%E7%AD%BE%E8%BF%90",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "BLG晋级Viper发挥什么作用",
-            "url": "https://search.bilibili.com/all?keyword=BLG%E6%99%8B%E7%BA%A7Viper%E5%8F%91%E6%8C%A5%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8",
+            "title": "西班牙高铁相撞事故始末",
+            "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%93%81%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E5%A7%8B%E6%9C%AB",
             "hot": ""
           }
         ]
