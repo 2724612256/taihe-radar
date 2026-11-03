@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T03:57:43.054Z",
+  "generatedAt": "2026-11-03T12:07:05.445Z",
   "edition": {
-    "id": "ed_2026-11-03_noon",
-    "slot": "noon",
-    "slotName": "午报",
+    "id": "ed_2026-11-03_evening",
+    "slot": "evening",
+    "slotName": "晚报",
     "date": "2026-11-03",
-    "at": "2026-11-03T03:57:43.054Z",
+    "at": "2026-11-03T12:07:05.445Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "后会友期嘉宾学历盘点",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%98%89%E5%AE%BE%E5%AD%A6%E5%8E%86%E7%9B%98%E7%82%B9%23&t=31&band_rank=1&Refer=top",
+            "title": "我画地为牢了",
+            "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E4%BA%86&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "张雪机车校招薪资被嫌低",
-            "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%A0%A1%E6%8B%9B%E8%96%AA%E8%B5%84%E8%A2%AB%E5%AB%8C%E4%BD%8E&t=31&band_rank=2&Refer=top",
+            "title": "中国不申办2036年奥运会",
+            "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A%23&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "世界互联网大会乌镇峰会创下多个首次",
-            "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%88%9B%E4%B8%8B%E5%A4%9A%E4%B8%AA%E9%A6%96%E6%AC%A1%23&t=31&band_rank=3&Refer=top",
+            "title": "2026世界市长对话宁波",
+            "url": "https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E5%AE%81%E6%B3%A2%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "许飞什么都敢回啊厉娜",
-            "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E4%BB%80%E4%B9%88%E9%83%BD%E6%95%A2%E5%9B%9E%E5%95%8A%E5%8E%89%E5%A8%9C&t=31&band_rank=4&Refer=top",
+            "title": "清华研究生怀孕怕被退学获导师支持",
+            "url": "https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E7%A0%94%E7%A9%B6%E7%94%9F%E6%80%80%E5%AD%95%E6%80%95%E8%A2%AB%E9%80%80%E5%AD%A6%E8%8E%B7%E5%AF%BC%E5%B8%88%E6%94%AF%E6%8C%81%23&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "警方已介入九寨沟景区游客冲突",
-            "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E5%86%B2%E7%AA%81%23&t=31&band_rank=5&Refer=top",
+            "title": "嫁金钗 第二季",
+            "url": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%20%E7%AC%AC%E4%BA%8C%E5%AD%A3&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,32 +50,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "76人战胜公牛获四连胜",
-            "url": "https://www.douyin.com/hot/2726486",
+            "title": "刘延东同志遗体在京火化",
+            "url": "https://www.douyin.com/hot/2727322",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "斯诺克国锦赛赵心童晋级16强",
-            "url": "https://www.douyin.com/hot/2726386",
+            "title": "中方特使特代本月将赴多国访问",
+            "url": "https://www.douyin.com/hot/2727480",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "开源开放 共建共享",
-            "url": "https://www.douyin.com/hot/2726543",
+            "title": "今年的进博会有哪些看点",
+            "url": "https://www.douyin.com/hot/2727306",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "高校通报有人男扮女装进女生宿舍",
-            "url": "https://www.douyin.com/hot/2726443",
+            "title": "世界互联网大会乌镇峰会开幕",
+            "url": "https://www.douyin.com/hot/2726781",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "丁俊晖6:5战胜张安达",
-            "url": "https://www.douyin.com/hot/2726272",
+            "title": "上海海港4:2纽卡斯尔喷气机",
+            "url": "https://www.douyin.com/hot/2727513",
             "hot": ""
           }
         ]
@@ -86,32 +86,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "Daeny希望LPL重新夺回王座",
-            "url": "https://search.bilibili.com/all?keyword=Daeny%E5%B8%8C%E6%9C%9BLPL%E9%87%8D%E6%96%B0%E5%A4%BA%E5%9B%9E%E7%8E%8B%E5%BA%A7",
+            "title": "刘延东同志遗体在京火化",
+            "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E5%BB%B6%E4%B8%9C%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "力箭二号遥二火箭发射成功",
-            "url": "https://search.bilibili.com/all?keyword=%E5%8A%9B%E7%AE%AD%E4%BA%8C%E5%8F%B7%E9%81%A5%E4%BA%8C%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F",
+            "title": "美坠机事故9名遇难者身份确认",
+            "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%859%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E7%A1%AE%E8%AE%A4",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "GPT-6 Astra不训练直接改模型权重",
-            "url": "https://search.bilibili.com/all?keyword=GPT-6%20Astra",
+            "title": "T1美国生存记",
+            "url": "https://search.bilibili.com/all?keyword=T1%E7%BE%8E%E5%9B%BD%E7%94%9F%E5%AD%98%E8%AE%B0",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "S16八强四场对决背后的故事",
-            "url": "https://search.bilibili.com/all?keyword=S16%E5%85%AB%E5%BC%BA%E5%9B%9B%E5%9C%BA%E5%AF%B9%E5%86%B3%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B",
+            "title": "DeepSeek又崩了",
+            "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%8F%88%E5%B4%A9%E4%BA%86",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "八个问题带你看懂美国中期选举",
-            "url": "https://search.bilibili.com/all?keyword=%E5%85%AB%E4%B8%AA%E9%97%AE%E9%A2%98%E5%B8%A6%E4%BD%A0%E7%9C%8B%E6%87%82%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE",
+            "title": "上单大魔王TheShy的故事",
+            "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E5%8D%95%E5%A4%A7%E9%AD%94%E7%8E%8BTheShy%E7%9A%84%E6%95%85%E4%BA%8B",
             "hot": ""
           }
         ]
