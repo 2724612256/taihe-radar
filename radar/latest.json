@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T20:27:40.130Z",
+  "generatedAt": "2026-11-03T03:57:43.054Z",
   "edition": {
-    "id": "ed_2026-11-03_morning",
-    "slot": "morning",
-    "slotName": "早报",
+    "id": "ed_2026-11-03_noon",
+    "slot": "noon",
+    "slotName": "午报",
     "date": "2026-11-03",
-    "at": "2026-11-02T20:27:40.130Z",
+    "at": "2026-11-03T03:57:43.054Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "嫁金钗",
-            "url": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97&t=31&band_rank=1&Refer=top",
+            "title": "后会友期嘉宾学历盘点",
+            "url": "https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%98%89%E5%AE%BE%E5%AD%A6%E5%8E%86%E7%9B%98%E7%82%B9%23&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "青稚白小纯对摄影师发火",
-            "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%AF%B9%E6%91%84%E5%BD%B1%E5%B8%88%E5%8F%91%E7%81%AB%23&t=31&band_rank=2&Refer=top",
+            "title": "张雪机车校招薪资被嫌低",
+            "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%A0%A1%E6%8B%9B%E8%96%AA%E8%B5%84%E8%A2%AB%E5%AB%8C%E4%BD%8E&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "在乌镇峰会提前体验未来",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E6%8F%90%E5%89%8D%E4%BD%93%E9%AA%8C%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top",
+            "title": "世界互联网大会乌镇峰会创下多个首次",
+            "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%88%9B%E4%B8%8B%E5%A4%9A%E4%B8%AA%E9%A6%96%E6%AC%A1%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "超20万人看了一场假乒乓球比赛",
-            "url": "https://s.weibo.com/weibo?q=%23%E8%B6%8520%E4%B8%87%E4%BA%BA%E7%9C%8B%E4%BA%86%E4%B8%80%E5%9C%BA%E5%81%87%E4%B9%92%E4%B9%93%E7%90%83%E6%AF%94%E8%B5%9B%23&t=31&band_rank=4&Refer=top",
+            "title": "许飞什么都敢回啊厉娜",
+            "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E4%BB%80%E4%B9%88%E9%83%BD%E6%95%A2%E5%9B%9E%E5%95%8A%E5%8E%89%E5%A8%9C&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "红果短剧刷到天亮",
-            "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%88%B7%E5%88%B0%E5%A4%A9%E4%BA%AE&t=31&band_rank=5&Refer=top",
+            "title": "警方已介入九寨沟景区游客冲突",
+            "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E5%86%B2%E7%AA%81%23&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,32 +50,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "多海域连发航行警告",
-            "url": "https://www.douyin.com/hot/2725427",
+            "title": "76人战胜公牛获四连胜",
+            "url": "https://www.douyin.com/hot/2726486",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "吴宜泽6:1横扫对手晋级32强",
-            "url": "https://www.douyin.com/hot/2725907",
+            "title": "斯诺克国锦赛赵心童晋级16强",
+            "url": "https://www.douyin.com/hot/2726386",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "长征路上学党史",
-            "url": "https://www.douyin.com/hot/2726160",
+            "title": "开源开放 共建共享",
+            "url": "https://www.douyin.com/hot/2726543",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "丁俊晖6:5战胜张安达",
-            "url": "https://www.douyin.com/hot/2726272",
+            "title": "高校通报有人男扮女装进女生宿舍",
+            "url": "https://www.douyin.com/hot/2726443",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "我的北京秋天封神时刻",
-            "url": "https://www.douyin.com/hot/2724254",
+            "title": "丁俊晖6:5战胜张安达",
+            "url": "https://www.douyin.com/hot/2726272",
             "hot": ""
           }
         ]
@@ -86,32 +86,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "DeepSeek Harness入驻B站",
-            "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%85%A5%E9%A9%BBB%E7%AB%99",
+            "title": "Daeny希望LPL重新夺回王座",
+            "url": "https://search.bilibili.com/all?keyword=Daeny%E5%B8%8C%E6%9C%9BLPL%E9%87%8D%E6%96%B0%E5%A4%BA%E5%9B%9E%E7%8E%8B%E5%BA%A7",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "北京JDG战胜重庆狼队 KPL",
-            "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%ACJDG%20%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F",
+            "title": "力箭二号遥二火箭发射成功",
+            "url": "https://search.bilibili.com/all?keyword=%E5%8A%9B%E7%AE%AD%E4%BA%8C%E5%8F%B7%E9%81%A5%E4%BA%8C%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "RTX5080 24GB或将延期发布",
-            "url": "https://search.bilibili.com/all?keyword=RTX5080%2024GB%E6%88%96%E5%B0%86%E5%BB%B6%E6%9C%9F%E5%8F%91%E5%B8%83",
+            "title": "GPT-6 Astra不训练直接改模型权重",
+            "url": "https://search.bilibili.com/all?keyword=GPT-6%20Astra",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "BLG晋级八强赛事语音",
-            "url": "https://search.bilibili.com/all?keyword=BLG%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3",
+            "title": "S16八强四场对决背后的故事",
+            "url": "https://search.bilibili.com/all?keyword=S16%E5%85%AB%E5%BC%BA%E5%9B%9B%E5%9C%BA%E5%AF%B9%E5%86%B3%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "伦德伯格狂砍37分有多夸张",
-            "url": "https://search.bilibili.com/all?keyword=%E4%BC%A6%E5%BE%B7%E4%BC%AF%E6%A0%BC%E7%8B%82%E7%A0%8D37%E5%88%86%E6%9C%89%E5%A4%9A%E5%A4%B8%E5%BC%A0",
+            "title": "八个问题带你看懂美国中期选举",
+            "url": "https://search.bilibili.com/all?keyword=%E5%85%AB%E4%B8%AA%E9%97%AE%E9%A2%98%E5%B8%A6%E4%BD%A0%E7%9C%8B%E6%87%82%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE",
             "hot": ""
           }
         ]
