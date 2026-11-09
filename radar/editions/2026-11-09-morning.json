@@ -3,7 +3,7 @@
   "slot": "morning",
   "slotName": "早报",
   "date": "2026-11-09",
-  "at": "2026-11-08T16:44:52.716Z",
+  "at": "2026-11-09T02:48:34.539Z",
   "platforms": [
     {
       "key": "weibo",
@@ -11,32 +11,32 @@
       "items": [
         {
           "rank": 1,
-          "title": "马斯克突爆孙正义猛料",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E7%88%86%E5%AD%99%E6%AD%A3%E4%B9%89%E7%8C%9B%E6%96%99%23&t=31&band_rank=1&Refer=top",
+          "title": "BLG战胜T1",
+          "url": "https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CT1&t=31&band_rank=1&Refer=top",
           "hot": ""
         },
         {
           "rank": 2,
-          "title": "疑似秦始皇儿子遗骸遭肢解",
-          "url": "https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E9%81%97%E9%AA%B8%E9%81%AD%E8%82%A2%E8%A7%A3&t=31&band_rank=2&Refer=top",
+          "title": "BLG成首支S赛BO5战胜T1的LPL战队",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E6%88%90%E9%A6%96%E6%94%AFS%E8%B5%9BBO5%E6%88%98%E8%83%9CT1%E7%9A%84LPL%E6%88%98%E9%98%9F%23&t=31&band_rank=2&Refer=top",
           "hot": ""
         },
         {
           "rank": 3,
-          "title": "中国消费图景向新向优",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%9B%BE%E6%99%AF%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%23&t=31&band_rank=3&Refer=top",
+          "title": "透过关键词解码进博会",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%A3%E7%A0%81%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top",
           "hot": ""
         },
         {
           "rank": 4,
-          "title": "许飞 厉娜",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E5%8E%89%E5%A8%9C&t=31&band_rank=4&Refer=top",
+          "title": "白小纯口碑反转",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%8F%A3%E7%A2%91%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=4&Refer=top",
           "hot": ""
         },
         {
           "rank": 5,
-          "title": "无锡女厕惊现站立式小便厕位",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%94%A1%E5%A5%B3%E5%8E%95%E6%83%8A%E7%8E%B0%E7%AB%99%E7%AB%8B%E5%BC%8F%E5%B0%8F%E4%BE%BF%E5%8E%95%E4%BD%8D%23&t=31&band_rank=5&Refer=top",
+          "title": "Faker告别S16",
+          "url": "https://s.weibo.com/weibo?q=%23Faker%E5%91%8A%E5%88%ABS16%23&t=31&band_rank=5&Refer=top",
           "hot": ""
         }
       ]
@@ -47,32 +47,32 @@
       "items": [
         {
           "rank": 1,
-          "title": "成都蓉城致歉",
-          "url": "https://www.douyin.com/hot/2736255",
-          "hot": ""
-        },
-        {
-          "rank": 2,
-          "title": "BLG对战T1",
+          "title": "BLG战胜T1挺进决赛",
           "url": "https://www.douyin.com/hot/2736348",
           "hot": ""
         },
         {
+          "rank": 2,
+          "title": "后知后觉又过了一个秋",
+          "url": "https://www.douyin.com/hot/2736425",
+          "hot": ""
+        },
+        {
           "rank": 3,
-          "title": "大国重器向地下万米进军",
-          "url": "https://www.douyin.com/hot/2736224",
+          "title": "外资持续看好中国发展前景",
+          "url": "https://www.douyin.com/hot/2736611",
           "hot": ""
         },
         {
           "rank": 4,
-          "title": "大连时隔21年重夺中超冠军",
-          "url": "https://www.douyin.com/hot/2736060",
+          "title": "成都蓉城客场不敌泰山无缘冠军",
+          "url": "https://www.douyin.com/hot/2735927",
           "hot": ""
         },
         {
           "rank": 5,
-          "title": "开拓者惨败马刺 杨瀚森首次两双",
-          "url": "https://www.douyin.com/hot/2735594",
+          "title": "曼联4:4战平维拉",
+          "url": "https://www.douyin.com/hot/2736517",
           "hot": ""
         }
       ]
@@ -83,32 +83,32 @@
       "items": [
         {
           "rank": 1,
-          "title": "北京WB战胜广州TTG KPL",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E5%B7%9ETTG%20%E5%8C%97%E4%BA%ACWB",
+          "title": "BLG战胜T1晋级决赛",
+          "url": "https://search.bilibili.com/all?keyword=BLG%20T1",
           "hot": ""
         },
         {
           "rank": 2,
-          "title": "4家内存供应商利润创新高",
-          "url": "https://search.bilibili.com/all?keyword=4%E5%AE%B6%E5%86%85%E5%AD%98%E4%BE%9B%E5%BA%94%E5%95%86%E5%88%A9%E6%B6%A6%E5%88%9B%E6%96%B0%E9%AB%98",
+          "title": "卫星互联网低轨29组卫星成功发射",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A829%E7%BB%84%E5%8D%AB%E6%98%9F%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84",
           "hot": ""
         },
         {
           "rank": 3,
-          "title": "特大暴雪来袭",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA%E6%9D%A5%E8%A2%AD",
+          "title": "细节看人民空军新机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%86%E8%8A%82%E7%9C%8B%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E6%96%B0%E6%9C%BA",
           "hot": ""
         },
         {
           "rank": 4,
-          "title": "369ZUIAN 上单之间真的有话说",
-          "url": "https://search.bilibili.com/all?keyword=369ZUIAN%20%E4%B8%8A%E5%8D%95%E4%B9%8B%E9%97%B4%E7%9C%9F%E7%9A%84%E6%9C%89%E8%AF%9D%E8%AF%B4",
+          "title": "数据回顾BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E6%8D%AE%E5%9B%9E%E9%A1%BEBLG%E6%88%98%E8%83%9CT1",
           "hot": ""
         },
         {
           "rank": 5,
-          "title": "杨瀚森比上赛季进步在哪",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E6%AF%94%E4%B8%8A%E8%B5%9B%E5%AD%A3%E8%BF%9B%E6%AD%A5%E5%9C%A8%E5%93%AA",
+          "title": "诺里斯时隔7场再夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%BA%E9%87%8C%E6%96%AF%E6%97%B6%E9%9A%947%E5%9C%BA%E5%86%8D%E5%A4%BA%E5%86%A0",
           "hot": ""
         }
       ]
