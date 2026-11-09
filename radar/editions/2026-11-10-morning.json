@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-11-10_morning",
+  "slot": "morning",
+  "slotName": "早报",
+  "date": "2026-11-10",
+  "at": "2026-11-09T20:54:47.861Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "白小纯 王子璇",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%20%E7%8E%8B%E5%AD%90%E7%92%87&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "老人将6亿遗产留给再婚妻子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B0%866%E4%BA%BF%E9%81%97%E4%BA%A7%E7%95%99%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90%23&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "铸牢共同体中华一家亲",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B8%E7%89%A2%E5%85%B1%E5%90%8C%E4%BD%93%E4%B8%AD%E5%8D%8E%E4%B8%80%E5%AE%B6%E4%BA%B2%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "白小纯在发现有人没上车的30秒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%9C%A8%E5%8F%91%E7%8E%B0%E6%9C%89%E4%BA%BA%E6%B2%A1%E4%B8%8A%E8%BD%A6%E7%9A%8430%E7%A7%92%23&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "石家庄天降陨石最大单体35公斤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%A4%A9%E9%99%8D%E9%99%A8%E7%9F%B3%E6%9C%80%E5%A4%A7%E5%8D%95%E4%BD%9335%E5%85%AC%E6%96%A4%23&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "张可依青奥会100米栏夺冠",
+          "url": "https://www.douyin.com/hot/2736536",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "全网老吃家带着绝活开锅了",
+          "url": "https://www.douyin.com/hot/2737447",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "在互动中感受进博会多元魅力",
+          "url": "https://www.douyin.com/hot/2737984",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "攻击11全方位展示",
+          "url": "https://www.douyin.com/hot/2736653",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "爱旅游的人已拿到双11大结果",
+          "url": "https://www.douyin.com/hot/2737594",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "细节复盘BLG被抢龙真相",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%86%E8%8A%82%E5%A4%8D%E7%9B%98BLG%E8%A2%AB%E6%8A%A2%E9%BE%99%E7%9C%9F%E7%9B%B8",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "Knight带你去纽约",
+          "url": "https://search.bilibili.com/all?keyword=Knight%E5%B8%A6%E4%BD%A0%E5%8E%BB%E7%BA%BD%E7%BA%A6",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "杨瀚森新赛季进步有多大",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%BF%9B%E6%AD%A5%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "回看30岁Faker的来时路",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E7%9C%8B30%E5%B2%81Faker%E7%9A%84%E6%9D%A5%E6%97%B6%E8%B7%AF",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "央视披露花坛藏尸案细节",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E7%BB%86%E8%8A%82",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}
