@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T02:48:34.539Z",
+  "generatedAt": "2026-11-09T13:06:38.504Z",
   "edition": {
-    "id": "ed_2026-11-09_morning",
-    "slot": "morning",
-    "slotName": "早报",
+    "id": "ed_2026-11-09_evening",
+    "slot": "evening",
+    "slotName": "晚报",
     "date": "2026-11-09",
-    "at": "2026-11-09T02:48:34.539Z",
+    "at": "2026-11-09T13:06:38.504Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "BLG战胜T1",
-            "url": "https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CT1&t=31&band_rank=1&Refer=top",
+            "title": "尚公主官方拆cp",
+            "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%AE%98%E6%96%B9%E6%8B%86cp%23&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "BLG成首支S赛BO5战胜T1的LPL战队",
-            "url": "https://s.weibo.com/weibo?q=%23BLG%E6%88%90%E9%A6%96%E6%94%AFS%E8%B5%9BBO5%E6%88%98%E8%83%9CT1%E7%9A%84LPL%E6%88%98%E9%98%9F%23&t=31&band_rank=2&Refer=top",
+            "title": "王楚钦发文反思总结",
+            "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E6%96%87%E5%8F%8D%E6%80%9D%E6%80%BB%E7%BB%93%23&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "透过关键词解码进博会",
-            "url": "https://s.weibo.com/weibo?q=%23%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%A3%E7%A0%81%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top",
+            "title": "秋粮丰收背后有三层底气",
+            "url": "https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%B2%AE%E4%B8%B0%E6%94%B6%E8%83%8C%E5%90%8E%E6%9C%89%E4%B8%89%E5%B1%82%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "白小纯口碑反转",
-            "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%8F%A3%E7%A2%91%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=4&Refer=top",
+            "title": "文吉儿让王子璇平静一点",
+            "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF%E8%AE%A9%E7%8E%8B%E5%AD%90%E7%92%87%E5%B9%B3%E9%9D%99%E4%B8%80%E7%82%B9%23&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "Faker告别S16",
-            "url": "https://s.weibo.com/weibo?q=%23Faker%E5%91%8A%E5%88%ABS16%23&t=31&band_rank=5&Refer=top",
+            "title": "W盛典红毯",
+            "url": "https://s.weibo.com/weibo?q=W%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,32 +50,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "BLG战胜T1挺进决赛",
-            "url": "https://www.douyin.com/hot/2736348",
-            "hot": ""
-          },
-          {
-            "rank": 2,
             "title": "后知后觉又过了一个秋",
             "url": "https://www.douyin.com/hot/2736425",
             "hot": ""
           },
           {
+            "rank": 2,
+            "title": "全网老吃家带着绝活开锅了",
+            "url": "https://www.douyin.com/hot/2737447",
+            "hot": ""
+          },
+          {
             "rank": 3,
-            "title": "外资持续看好中国发展前景",
-            "url": "https://www.douyin.com/hot/2736611",
+            "title": "在互动中感受进博会多元魅力",
+            "url": "https://www.douyin.com/hot/2737984",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "成都蓉城客场不敌泰山无缘冠军",
-            "url": "https://www.douyin.com/hot/2735927",
+            "title": "攻击11全方位展示",
+            "url": "https://www.douyin.com/hot/2736653",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "曼联4:4战平维拉",
-            "url": "https://www.douyin.com/hot/2736517",
+            "title": "我的家乡申请出战",
+            "url": "https://www.douyin.com/hot/2737382",
             "hot": ""
           }
         ]
@@ -86,32 +86,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "BLG战胜T1晋级决赛",
-            "url": "https://search.bilibili.com/all?keyword=BLG%20T1",
+            "title": "回看30岁Faker的来时路",
+            "url": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E7%9C%8B30%E5%B2%81Faker%E7%9A%84%E6%9D%A5%E6%97%B6%E8%B7%AF",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "卫星互联网低轨29组卫星成功发射",
-            "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A829%E7%BB%84%E5%8D%AB%E6%98%9F%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84",
+            "title": "草莓植物工厂能种上月球吗",
+            "url": "https://search.bilibili.com/all?keyword=%E8%8D%89%E8%8E%93%E6%A4%8D%E7%89%A9%E5%B7%A5%E5%8E%82%E8%83%BD%E7%A7%8D%E4%B8%8A%E6%9C%88%E7%90%83%E5%90%97",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "细节看人民空军新机",
-            "url": "https://search.bilibili.com/all?keyword=%E7%BB%86%E8%8A%82%E7%9C%8B%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E6%96%B0%E6%9C%BA",
+            "title": "让九个AI大模型玩造桥",
+            "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "数据回顾BLG战胜T1",
-            "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E6%8D%AE%E5%9B%9E%E9%A1%BEBLG%E6%88%98%E8%83%9CT1",
+            "title": "米勒激动现场落泪",
+            "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E6%BF%80%E5%8A%A8%E7%8E%B0%E5%9C%BA%E8%90%BD%E6%B3%AA",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "诺里斯时隔7场再夺冠",
-            "url": "https://search.bilibili.com/all?keyword=%E8%AF%BA%E9%87%8C%E6%96%AF%E6%97%B6%E9%9A%947%E5%9C%BA%E5%86%8D%E5%A4%BA%E5%86%A0",
+            "title": "用AI原创68分钟科幻长片",
+            "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87",
             "hot": ""
           }
         ]
