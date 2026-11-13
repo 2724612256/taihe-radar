@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T12:25:03.527Z",
+  "generatedAt": "2026-11-13T17:56:47.657Z",
   "edition": {
-    "id": "ed_2026-11-13_evening",
-    "slot": "evening",
-    "slotName": "晚报",
-    "date": "2026-11-13",
-    "at": "2026-11-13T12:25:03.527Z",
+    "id": "ed_2026-11-14_morning",
+    "slot": "morning",
+    "slotName": "早报",
+    "date": "2026-11-14",
+    "at": "2026-11-13T17:56:47.657Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "王忠林被查",
-            "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%A0%E6%9E%97%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=1&Refer=top",
+            "title": "老板假装扫了500余次付款码",
+            "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%81%87%E8%A3%85%E6%89%AB%E4%BA%86500%E4%BD%99%E6%AC%A1%E4%BB%98%E6%AC%BE%E7%A0%81%23&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "飞秒手术全球1000万例中国750万例",
-            "url": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E5%85%A8%E7%90%831000%E4%B8%87%E4%BE%8B%E4%B8%AD%E5%9B%BD750%E4%B8%87%E4%BE%8B%23&t=31&band_rank=2&Refer=top",
+            "title": "主人提醒邻居别给猫按电梯",
+            "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E4%BA%BA%E6%8F%90%E9%86%92%E9%82%BB%E5%B1%85%E5%88%AB%E7%BB%99%E7%8C%AB%E6%8C%89%E7%94%B5%E6%A2%AF&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "百年宏愿正在成为美好现实",
-            "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%B9%B4%E5%AE%8F%E6%84%BF%E6%AD%A3%E5%9C%A8%E6%88%90%E4%B8%BA%E7%BE%8E%E5%A5%BD%E7%8E%B0%E5%AE%9E%23&t=31&band_rank=3&Refer=top",
+            "title": "APEC时隔12年再次来到中国",
+            "url": "https://s.weibo.com/weibo?q=%23APEC%E6%97%B6%E9%9A%9412%E5%B9%B4%E5%86%8D%E6%AC%A1%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "飞秒手术要降价了",
-            "url": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%A7%92%E6%89%8B%E6%9C%AF%E8%A6%81%E9%99%8D%E4%BB%B7%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+            "title": "顾居居拉表让白小纯不要愧疚",
+            "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%B1%85%E5%B1%85%E6%8B%89%E8%A1%A8%E8%AE%A9%E7%99%BD%E5%B0%8F%E7%BA%AF%E4%B8%8D%E8%A6%81%E6%84%A7%E7%96%9A%23&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "梓渝演唱会",
-            "url": "https://s.weibo.com/weibo?q=%E6%A2%93%E6%B8%9D%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=5&Refer=top",
+            "title": "春日宴回应番位争议",
+            "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E5%AE%B4%E5%9B%9E%E5%BA%94%E7%95%AA%E4%BD%8D%E4%BA%89%E8%AE%AE%23&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,32 +50,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "油价下调 加满一箱油少花约26元",
-            "url": "https://www.douyin.com/hot/2743675",
-            "hot": ""
-          },
-          {
-            "rank": 2,
             "title": "手工敲虾到底有多好吃",
             "url": "https://www.douyin.com/hot/2743716",
             "hot": ""
           },
           {
+            "rank": 2,
+            "title": "课本里的逍遥游有画面了",
+            "url": "https://www.douyin.com/hot/2743514",
+            "hot": ""
+          },
+          {
             "rank": 3,
-            "title": "双向奔赴的投资",
-            "url": "https://www.douyin.com/hot/2744399",
+            "title": "解锁APEC限定“寻宝”路线",
+            "url": "https://www.douyin.com/hot/2745092",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "湖北省委原书记王忠林被查",
-            "url": "https://www.douyin.com/hot/2744823",
+            "title": "油价下调 加满一箱油少花约26元",
+            "url": "https://www.douyin.com/hot/2743675",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "情呀爱呀手势舞",
-            "url": "https://www.douyin.com/hot/2743285",
+            "title": "EDG官宣CHICHOO离队",
+            "url": "https://www.douyin.com/hot/2745079",
             "hot": ""
           }
         ]
@@ -86,32 +86,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "EDG官宣nobody离队",
-            "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3nobody%E7%A6%BB%E9%98%9F",
+            "title": "BLG针对Canyon就能赢GEN吗",
+            "url": "https://search.bilibili.com/all?keyword=BLG%E9%92%88%E5%AF%B9Canyon%E5%B0%B1%E8%83%BD%E8%B5%A2GEN%E5%90%97",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "UP主手搓非遗竹编盛笼",
-            "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E9%9D%9E%E9%81%97%E7%AB%B9%E7%BC%96%E7%9B%9B%E7%AC%BC",
+            "title": "俄乌17个月最大战役复盘",
+            "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E4%B9%8C17%E4%B8%AA%E6%9C%88%E6%9C%80%E5%A4%A7%E6%88%98%E5%BD%B9%E5%A4%8D%E7%9B%98",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "学前篇无限小黑重逢",
-            "url": "https://search.bilibili.com/all?keyword=%E5%AD%A6%E5%89%8D%E7%AF%87%E6%97%A0%E9%99%90%E5%B0%8F%E9%BB%91%E9%87%8D%E9%80%A2",
+            "title": "波切蒂诺担任曼联主教练",
+            "url": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E5%88%87%E8%92%82%E8%AF%BA%E6%8B%85%E4%BB%BB%E6%9B%BC%E8%81%94%E4%B8%BB%E6%95%99%E7%BB%83",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "EDG官宣Chichoo离队",
-            "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Chichoo%E7%A6%BB%E9%98%9F",
+            "title": "RTX5090恢复供货",
+            "url": "https://search.bilibili.com/all?keyword=RTX5090%E6%81%A2%E5%A4%8D%E4%BE%9B%E8%B4%A7",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "2027研究生报考人数347万",
-            "url": "https://search.bilibili.com/all?keyword=2027%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0347%E4%B8%87",
+            "title": "S16决赛预热宣传片",
+            "url": "https://search.bilibili.com/all?keyword=S16%E5%86%B3%E8%B5%9B%E9%A2%84%E7%83%AD%E5%AE%A3%E4%BC%A0%E7%89%87",
             "hot": ""
           }
         ]
