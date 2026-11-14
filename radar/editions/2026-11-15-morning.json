@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-11-15_morning",
+  "slot": "morning",
+  "slotName": "早报",
+  "date": "2026-11-15",
+  "at": "2026-11-14T16:40:24.369Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "八冠神罚",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AB%E5%86%A0%E7%A5%9E%E7%BD%9A%23&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "小寒梦游",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AF%92%E6%A2%A6%E6%B8%B8&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "来自深圳的邀请函",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E6%B7%B1%E5%9C%B3%E7%9A%84%E9%82%80%E8%AF%B7%E5%87%BD%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "梓墨FMVP",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%93%E5%A2%A8FMVP&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "WB夺冠",
+          "url": "https://s.weibo.com/weibo?q=WB%E5%A4%BA%E5%86%A0&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "BLG对阵GEN",
+          "url": "https://www.douyin.com/hot/2745933",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "国足2:0马来西亚",
+          "url": "https://www.douyin.com/hot/2745986",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "我国新增3处世界地质遗产地",
+          "url": "https://www.douyin.com/hot/2746427",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "北京WB夺得KPL年总冠军",
+          "url": "https://www.douyin.com/hot/2745988",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "湘超永州队晋级四强",
+          "url": "https://www.douyin.com/hot/2745888",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "上B站为BLG加油",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8AB%E7%AB%99%E4%B8%BABLG%E5%8A%A0%E6%B2%B9",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "梓墨FMVP皮肤给到司空震",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%93%E5%A2%A8FMVP%E7%9A%AE%E8%82%A4%E7%BB%99%E5%88%B0%E5%8F%B8%E7%A9%BA%E9%9C%87",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "UP主赛前应援BLG",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B5%9B%E5%89%8D%E5%BA%94%E6%8F%B4BLG",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "WB年总夺冠圆梦凤凰山",
+          "url": "https://search.bilibili.com/all?keyword=WB%E5%B9%B4%E6%80%BB%E5%A4%BA%E5%86%A0%E5%9C%86%E6%A2%A6%E5%87%A4%E5%87%B0%E5%B1%B1",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "梓墨获2026KPL年总FMVP",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%93%E5%A2%A8%E8%8E%B72026KPL%E5%B9%B4%E6%80%BBFMVP",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}
