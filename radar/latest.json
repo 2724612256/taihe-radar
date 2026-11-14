@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T03:25:12.581Z",
+  "generatedAt": "2026-11-14T11:38:27.338Z",
   "edition": {
-    "id": "ed_2026-11-14_noon",
-    "slot": "noon",
-    "slotName": "午报",
+    "id": "ed_2026-11-14_evening",
+    "slot": "evening",
+    "slotName": "晚报",
     "date": "2026-11-14",
-    "at": "2026-11-14T03:25:12.581Z",
+    "at": "2026-11-14T11:38:27.338Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "无人健身房火了小伙5年开1300家",
-            "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E5%81%A5%E8%BA%AB%E6%88%BF%E7%81%AB%E4%BA%86%E5%B0%8F%E4%BC%995%E5%B9%B4%E5%BC%801300%E5%AE%B6%23&t=31&band_rank=1&Refer=top",
+            "title": "真的建议大家上班带点零食",
+            "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8A%E7%8F%AD%E5%B8%A6%E7%82%B9%E9%9B%B6%E9%A3%9F&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "911后第二次全美停飞",
-            "url": "https://s.weibo.com/weibo?q=%23911%E5%90%8E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9E%23&t=31&band_rank=2&Refer=top",
+            "title": "青稚再获巅峰挑战赛冠军",
+            "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%86%8D%E8%8E%B7%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "深圳盛装喜迎亚太宾朋",
-            "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E7%9B%9B%E8%A3%85%E5%96%9C%E8%BF%8E%E4%BA%9A%E5%A4%AA%E5%AE%BE%E6%9C%8B%23&t=31&band_rank=3&Refer=top",
+            "title": "一图读懂我国消费市场潜力与活力",
+            "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B%E4%B8%8E%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "全校仅50多岁教师一人自愿当班主任",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%A0%A1%E4%BB%8550%E5%A4%9A%E5%B2%81%E6%95%99%E5%B8%88%E4%B8%80%E4%BA%BA%E8%87%AA%E6%84%BF%E5%BD%93%E7%8F%AD%E4%B8%BB%E4%BB%BB%23&t=31&band_rank=4&Refer=top",
+            "title": "中国人才是隐晦差评的神",
+            "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8D%E6%98%AF%E9%9A%90%E6%99%A6%E5%B7%AE%E8%AF%84%E7%9A%84%E7%A5%9E&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "老板假装扫了500余次付款码",
-            "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%81%87%E8%A3%85%E6%89%AB%E4%BA%86500%E4%BD%99%E6%AC%A1%E4%BB%98%E6%AC%BE%E7%A0%81%23&t=31&band_rank=5&Refer=top",
+            "title": "男婴因黄疸鼻塞入新生儿科次日死亡",
+            "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A9%B4%E5%9B%A0%E9%BB%84%E7%96%B8%E9%BC%BB%E5%A1%9E%E5%85%A5%E6%96%B0%E7%94%9F%E5%84%BF%E7%A7%91%E6%AC%A1%E6%97%A5%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,32 +50,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "阿根廷1:2乌拉圭",
-            "url": "https://www.douyin.com/hot/2744094",
+            "title": "国足对阵马来西亚",
+            "url": "https://www.douyin.com/hot/2745986",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "课本里的逍遥游有画面了",
-            "url": "https://www.douyin.com/hot/2743514",
+            "title": "KPL年总决战凤凰山",
+            "url": "https://www.douyin.com/hot/2745988",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "亚太之问中国作答",
-            "url": "https://www.douyin.com/hot/2745623",
+            "title": "为亚太地区增“绿”",
+            "url": "https://www.douyin.com/hot/2745870",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "用一次旅行来敬重自己",
-            "url": "https://www.douyin.com/hot/2744867",
+            "title": "请选择你的秋假遛娃地",
+            "url": "https://www.douyin.com/hot/2745916",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "手工敲虾到底有多好吃",
-            "url": "https://www.douyin.com/hot/2743716",
+            "title": "新闻联播",
+            "url": "https://www.douyin.com/hot/2746356",
             "hot": ""
           }
         ]
@@ -86,32 +86,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "紫灵邀请韩立前往坠魔谷",
-            "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
+            "title": "上B站为BLG加油",
+            "url": "https://search.bilibili.com/all?keyword=%E4%B8%8AB%E7%AB%99%E4%B8%BABLG%E5%8A%A0%E6%B2%B9",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "中老年病痛为何演变成烂梗",
-            "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E8%80%81%E5%B9%B4%E7%97%85%E7%97%9B%E4%B8%BA%E4%BD%95%E6%BC%94%E5%8F%98%E6%88%90%E7%83%82%E6%A2%97",
+            "title": "BLG 决赛我们来了",
+            "url": "https://search.bilibili.com/all?keyword=BLG%20%E5%86%B3%E8%B5%9B%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "守护解放西传承季定档1120",
-            "url": "https://search.bilibili.com/all?keyword=%E5%AE%88%E6%8A%A4%E8%A7%A3%E6%94%BE%E8%A5%BF",
+            "title": "UP主赛前应援BLG",
+            "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B5%9B%E5%89%8D%E5%BA%94%E6%8F%B4BLG",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "BLG的进攻GEN的防守谁更强",
-            "url": "https://search.bilibili.com/all?keyword=BLG%E7%9A%84%E8%BF%9B%E6%94%BBGEN%E7%9A%84%E9%98%B2%E5%AE%88%E8%B0%81%E6%9B%B4%E5%BC%BA",
+            "title": "北京JDG vs 北京WB KPL",
+            "url": "https://search.bilibili.com/all?keyword=KPL",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "迎接APEC深圳准备好了",
-            "url": "https://search.bilibili.com/all?keyword=%E8%BF%8E%E6%8E%A5APEC%E6%B7%B1%E5%9C%B3%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86",
+            "title": "TES 万声同向为BLG加油",
+            "url": "https://search.bilibili.com/all?keyword=TES%20%E4%B8%87%E5%A3%B0%E5%90%8C%E5%90%91%E4%B8%BABLG%E5%8A%A0%E6%B2%B9",
             "hot": ""
           }
         ]

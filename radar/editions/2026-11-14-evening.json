@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-11-14_evening",
+  "slot": "evening",
+  "slotName": "晚报",
+  "date": "2026-11-14",
+  "at": "2026-11-14T11:38:27.338Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "真的建议大家上班带点零食",
+          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8A%E7%8F%AD%E5%B8%A6%E7%82%B9%E9%9B%B6%E9%A3%9F&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "青稚再获巅峰挑战赛冠军",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%86%8D%E8%8E%B7%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "一图读懂我国消费市场潜力与活力",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B%E4%B8%8E%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "中国人才是隐晦差评的神",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8D%E6%98%AF%E9%9A%90%E6%99%A6%E5%B7%AE%E8%AF%84%E7%9A%84%E7%A5%9E&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "男婴因黄疸鼻塞入新生儿科次日死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A9%B4%E5%9B%A0%E9%BB%84%E7%96%B8%E9%BC%BB%E5%A1%9E%E5%85%A5%E6%96%B0%E7%94%9F%E5%84%BF%E7%A7%91%E6%AC%A1%E6%97%A5%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "国足对阵马来西亚",
+          "url": "https://www.douyin.com/hot/2745986",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "KPL年总决战凤凰山",
+          "url": "https://www.douyin.com/hot/2745988",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "为亚太地区增“绿”",
+          "url": "https://www.douyin.com/hot/2745870",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "请选择你的秋假遛娃地",
+          "url": "https://www.douyin.com/hot/2745916",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "新闻联播",
+          "url": "https://www.douyin.com/hot/2746356",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "上B站为BLG加油",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8AB%E7%AB%99%E4%B8%BABLG%E5%8A%A0%E6%B2%B9",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "BLG 决赛我们来了",
+          "url": "https://search.bilibili.com/all?keyword=BLG%20%E5%86%B3%E8%B5%9B%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "UP主赛前应援BLG",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B5%9B%E5%89%8D%E5%BA%94%E6%8F%B4BLG",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "北京JDG vs 北京WB KPL",
+          "url": "https://search.bilibili.com/all?keyword=KPL",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "TES 万声同向为BLG加油",
+          "url": "https://search.bilibili.com/all?keyword=TES%20%E4%B8%87%E5%A3%B0%E5%90%8C%E5%90%91%E4%B8%BABLG%E5%8A%A0%E6%B2%B9",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}
