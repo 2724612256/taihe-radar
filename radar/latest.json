@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T02:53:20.550Z",
+  "generatedAt": "2026-11-15T12:04:54.289Z",
   "edition": {
-    "id": "ed_2026-11-15_morning",
-    "slot": "morning",
-    "slotName": "早报",
+    "id": "ed_2026-11-15_evening",
+    "slot": "evening",
+    "slotName": "晚报",
     "date": "2026-11-15",
-    "at": "2026-11-15T02:53:20.550Z",
+    "at": "2026-11-15T12:04:54.289Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "Bin成为LPL历史首位大满贯上路选手",
-            "url": "https://s.weibo.com/weibo?q=%23Bin%E6%88%90%E4%B8%BALPL%E5%8E%86%E5%8F%B2%E9%A6%96%E4%BD%8D%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B8%8A%E8%B7%AF%E9%80%89%E6%89%8B%23&t=31&band_rank=1&Refer=top",
+            "title": "砒霜口服药让白血病患存活率超97%",
+            "url": "https://s.weibo.com/weibo?q=%23%E7%A0%92%E9%9C%9C%E5%8F%A3%E6%9C%8D%E8%8D%AF%E8%AE%A9%E7%99%BD%E8%A1%80%E7%97%85%E6%82%A3%E5%AD%98%E6%B4%BB%E7%8E%87%E8%B6%8597%25%23&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "boss直聘暂停要求带咖啡公司账号权限",
-            "url": "https://s.weibo.com/weibo?q=%23boss%E7%9B%B4%E8%81%98%E6%9A%82%E5%81%9C%E8%A6%81%E6%B1%82%E5%B8%A6%E5%92%96%E5%95%A1%E5%85%AC%E5%8F%B8%E8%B4%A6%E5%8F%B7%E6%9D%83%E9%99%90%23&t=31&band_rank=2&Refer=top",
+            "title": "Knight说没想到年纪这么大才拿冠军",
+            "url": "https://s.weibo.com/weibo?q=%23Knight%E8%AF%B4%E6%B2%A1%E6%83%B3%E5%88%B0%E5%B9%B4%E7%BA%AA%E8%BF%99%E4%B9%88%E5%A4%A7%E6%89%8D%E6%8B%BF%E5%86%A0%E5%86%9B%23&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "4分钟读懂APEC",
-            "url": "https://s.weibo.com/weibo?q=%234%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC%23&t=31&band_rank=3&Refer=top",
+            "title": "115家世界500强企业参加工商峰会",
+            "url": "https://s.weibo.com/weibo?q=%23115%E5%AE%B6%E4%B8%96%E7%95%8C500%E5%BC%BA%E4%BC%81%E4%B8%9A%E5%8F%82%E5%8A%A0%E5%B7%A5%E5%95%86%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "BLG夺冠B站送大会员",
-            "url": "https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0B%E7%AB%99%E9%80%81%E5%A4%A7%E4%BC%9A%E5%91%98%23&t=31&band_rank=4&Refer=top",
+            "title": "BLG夺冠赞助商赢麻了",
+            "url": "https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E5%8A%A9%E5%95%86%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "BLG夺冠引来半个娱乐圈",
-            "url": "https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E5%BC%95%E6%9D%A5%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%23&t=31&band_rank=5&Refer=top",
+            "title": "今何在 不要都觉得比我更了解江南",
+            "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E4%BD%95%E5%9C%A8%20%E4%B8%8D%E8%A6%81%E9%83%BD%E8%A7%89%E5%BE%97%E6%AF%94%E6%88%91%E6%9B%B4%E4%BA%86%E8%A7%A3%E6%B1%9F%E5%8D%97&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,26 +50,26 @@
         "items": [
           {
             "rank": 1,
-            "title": "BLG夺冠",
-            "url": "https://www.douyin.com/hot/2746751",
+            "title": "罗圈村千年银杏树进入最佳观赏期",
+            "url": "https://www.douyin.com/hot/2746849",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "Knight夺得FMVP",
-            "url": "https://www.douyin.com/hot/2746772",
+            "title": "灵山审美已经next level了",
+            "url": "https://www.douyin.com/hot/2746921",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "一组先行指标看中国经济活力",
-            "url": "https://www.douyin.com/hot/2746865",
+            "title": "4分钟读懂APEC",
+            "url": "https://www.douyin.com/hot/2747332",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "BLG 3:1 GEN",
-            "url": "https://www.douyin.com/hot/2745933",
+            "title": "在白帝城看到了齐天大圣",
+            "url": "https://www.douyin.com/hot/2746844",
             "hot": ""
           },
           {
@@ -98,20 +98,20 @@
           },
           {
             "rank": 3,
-            "title": "央视新闻祝贺BLG夺冠",
-            "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0",
+            "title": "恭迎世一上归位",
+            "url": "https://search.bilibili.com/all?keyword=%E6%81%AD%E8%BF%8E%E4%B8%96%E4%B8%80%E4%B8%8A%E5%BD%92%E4%BD%8D",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "BLG夺冠赞歌 仰望星空",
-            "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E6%AD%8C%20%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA",
+            "title": "复盘BLG战胜GEN夺冠之战",
+            "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CGEN%E5%A4%BA%E5%86%A0%E4%B9%8B%E6%88%98",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "夏安将直播采访BLG选手",
-            "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%AE%89%E5%B0%86%E7%9B%B4%E6%92%AD%E9%87%87%E8%AE%BFBLG%E9%80%89%E6%89%8B",
+            "title": "管泽元和Ming米勒一起回味S16决赛",
+            "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%92%8CMing%E7%B1%B3%E5%8B%92%E4%B8%80%E8%B5%B7%E5%9B%9E%E5%91%B3S16%E5%86%B3%E8%B5%9B",
             "hot": ""
           }
         ]
