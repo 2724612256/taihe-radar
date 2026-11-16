@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-11-17_morning",
+  "slot": "morning",
+  "slotName": "早报",
+  "date": "2026-11-17",
+  "at": "2026-11-16T20:37:33.727Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "中俄美元首会晤将在深圳举行",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "终于有人说说干发帽了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "同舟共济开创亚太和世界更美好未来",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E8%88%9F%E5%85%B1%E6%B5%8E%E5%BC%80%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9B%B4%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "6年恋爱因一枚戒指分手",
+          "url": "https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "高市早苗穿菲律宾服饰出席晚宴",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A9%BF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%8D%E9%A5%B0%E5%87%BA%E5%B8%AD%E6%99%9A%E5%AE%B4%23&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "习近平将同普京特朗普会晤",
+          "url": "https://www.douyin.com/hot/2748056",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "2分钟读懂APEC",
+          "url": "https://www.douyin.com/hot/2748204",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "中国贸易伙伴网越织越密",
+          "url": "https://www.douyin.com/hot/2748206",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "加拿大总理卡尼抵达深圳",
+          "url": "https://www.douyin.com/hot/2749661",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "墨西哥总统辛鲍姆抵达深圳",
+          "url": "https://www.douyin.com/hot/2748444",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "外交部谈中俄美元首会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E8%B0%88%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "APEC中国年为何聚焦这三大领域",
+          "url": "https://search.bilibili.com/all?keyword=APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E4%B8%BA%E4%BD%95%E8%81%9A%E7%84%A6%E8%BF%99%E4%B8%89%E5%A4%A7%E9%A2%86%E5%9F%9F",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "高燃BLG一穿四夺冠短片",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E7%9F%AD%E7%89%87",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "考研区年更UP主大牙考研上线了",
+          "url": "https://search.bilibili.com/all?keyword=%E8%80%83%E7%A0%94%E5%8C%BA%E5%B9%B4%E6%9B%B4UP%E4%B8%BB%E5%A4%A7%E7%89%99%E8%80%83%E7%A0%94%E4%B8%8A%E7%BA%BF%E4%BA%86",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "食贫道闯关东吃饭故事上新",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E9%97%AF%E5%85%B3%E4%B8%9C%E5%90%83%E9%A5%AD%E6%95%85%E4%BA%8B%E4%B8%8A%E6%96%B0",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}

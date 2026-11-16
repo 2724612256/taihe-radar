@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T12:58:15.700Z",
+  "generatedAt": "2026-11-16T20:37:33.727Z",
   "edition": {
-    "id": "ed_2026-11-16_evening",
-    "slot": "evening",
-    "slotName": "晚报",
-    "date": "2026-11-16",
-    "at": "2026-11-16T12:58:15.700Z",
+    "id": "ed_2026-11-17_morning",
+    "slot": "morning",
+    "slotName": "早报",
+    "date": "2026-11-17",
+    "at": "2026-11-16T20:37:33.727Z",
     "platforms": [
       {
         "key": "weibo",
@@ -20,26 +20,26 @@
           },
           {
             "rank": 2,
-            "title": "为什么手指永远无法相互触碰",
-            "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%8C%87%E6%B0%B8%E8%BF%9C%E6%97%A0%E6%B3%95%E7%9B%B8%E4%BA%92%E8%A7%A6%E7%A2%B0&t=31&band_rank=2&Refer=top",
+            "title": "终于有人说说干发帽了",
+            "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86%23&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "APEC中国年主题宣传片",
-            "url": "https://s.weibo.com/weibo?q=%23APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E4%B8%BB%E9%A2%98%E5%AE%A3%E4%BC%A0%E7%89%87%23&t=31&band_rank=3&Refer=top",
+            "title": "同舟共济开创亚太和世界更美好未来",
+            "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E8%88%9F%E5%85%B1%E6%B5%8E%E5%BC%80%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9B%B4%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "钟意直播回应试训",
-            "url": "https://s.weibo.com/weibo?q=%E9%92%9F%E6%84%8F%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E8%AF%95%E8%AE%AD&t=31&band_rank=4&Refer=top",
+            "title": "6年恋爱因一枚戒指分手",
+            "url": "https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "这是健身史上最伟大的动作",
-            "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E5%81%A5%E8%BA%AB%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%8A%A8%E4%BD%9C&t=31&band_rank=5&Refer=top",
+            "title": "高市早苗穿菲律宾服饰出席晚宴",
+            "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A9%BF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%8D%E9%A5%B0%E5%87%BA%E5%B8%AD%E6%99%9A%E5%AE%B4%23&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -68,14 +68,14 @@
           },
           {
             "rank": 4,
-            "title": "火箭147:119奇才",
-            "url": "https://www.douyin.com/hot/2748060",
+            "title": "加拿大总理卡尼抵达深圳",
+            "url": "https://www.douyin.com/hot/2749661",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "欧国联英格兰3:2西班牙",
-            "url": "https://www.douyin.com/hot/2748020",
+            "title": "墨西哥总统辛鲍姆抵达深圳",
+            "url": "https://www.douyin.com/hot/2748444",
             "hot": ""
           }
         ]
@@ -98,8 +98,8 @@
           },
           {
             "rank": 3,
-            "title": "天下足球回顾C罗国家队生涯",
-            "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
+            "title": "高燃BLG一穿四夺冠短片",
+            "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E7%9F%AD%E7%89%87",
             "hot": ""
           },
           {
@@ -110,8 +110,8 @@
           },
           {
             "rank": 5,
-            "title": "BLG的十年建队之路",
-            "url": "https://search.bilibili.com/all?keyword=BLG%E7%9A%84%E5%8D%81%E5%B9%B4%E5%BB%BA%E9%98%9F%E4%B9%8B%E8%B7%AF",
+            "title": "食贫道闯关东吃饭故事上新",
+            "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E9%97%AF%E5%85%B3%E4%B8%9C%E5%90%83%E9%A5%AD%E6%95%85%E4%BA%8B%E4%B8%8A%E6%96%B0",
             "hot": ""
           }
         ]
