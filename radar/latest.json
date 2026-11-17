@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T20:37:33.727Z",
+  "generatedAt": "2026-11-17T05:09:06.614Z",
   "edition": {
-    "id": "ed_2026-11-17_morning",
-    "slot": "morning",
-    "slotName": "早报",
+    "id": "ed_2026-11-17_noon",
+    "slot": "noon",
+    "slotName": "午报",
     "date": "2026-11-17",
-    "at": "2026-11-16T20:37:33.727Z",
+    "at": "2026-11-17T05:09:06.614Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "中俄美元首会晤将在深圳举行",
-            "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=1&Refer=top",
+            "title": "深圳APEC主持人阵容拉满",
+            "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3APEC%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E6%8B%89%E6%BB%A1%23&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "终于有人说说干发帽了",
-            "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+            "title": "杨瀚森砍鲨战术",
+            "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%A0%8D%E9%B2%A8%E6%88%98%E6%9C%AF%23&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "同舟共济开创亚太和世界更美好未来",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E8%88%9F%E5%85%B1%E6%B5%8E%E5%BC%80%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%92%8C%E4%B8%96%E7%95%8C%E6%9B%B4%E7%BE%8E%E5%A5%BD%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top",
+            "title": "数说APEC中国年经贸成果",
+            "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E7%BB%8F%E8%B4%B8%E6%88%90%E6%9E%9C%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "6年恋爱因一枚戒指分手",
-            "url": "https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B&t=31&band_rank=4&Refer=top",
+            "title": "信小呆中奖后抑郁了",
+            "url": "https://s.weibo.com/weibo?q=%23%E4%BF%A1%E5%B0%8F%E5%91%86%E4%B8%AD%E5%A5%96%E5%90%8E%E6%8A%91%E9%83%81%E4%BA%86%23&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "高市早苗穿菲律宾服饰出席晚宴",
-            "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A9%BF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%8D%E9%A5%B0%E5%87%BA%E5%B8%AD%E6%99%9A%E5%AE%B4%23&t=31&band_rank=5&Refer=top",
+            "title": "从100斤瘦到80斤堪比整容",
+            "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E100%E6%96%A4%E7%98%A6%E5%88%B080%E6%96%A4%E5%A0%AA%E6%AF%94%E6%95%B4%E5%AE%B9%23&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -56,26 +56,26 @@
           },
           {
             "rank": 2,
-            "title": "2分钟读懂APEC",
-            "url": "https://www.douyin.com/hot/2748204",
+            "title": "2026年APEC工商领导人峰会开幕",
+            "url": "https://www.douyin.com/hot/2750072",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "中国贸易伙伴网越织越密",
-            "url": "https://www.douyin.com/hot/2748206",
+            "title": "APEC“中国年”经贸成果丰硕",
+            "url": "https://www.douyin.com/hot/2749899",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "加拿大总理卡尼抵达深圳",
-            "url": "https://www.douyin.com/hot/2749661",
+            "title": "苏林抵达深圳",
+            "url": "https://www.douyin.com/hot/2749925",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "墨西哥总统辛鲍姆抵达深圳",
-            "url": "https://www.douyin.com/hot/2748444",
+            "title": "76人135:123战胜篮网",
+            "url": "https://www.douyin.com/hot/2750128",
             "hot": ""
           }
         ]
@@ -92,26 +92,26 @@
           },
           {
             "rank": 2,
-            "title": "APEC中国年为何聚焦这三大领域",
-            "url": "https://search.bilibili.com/all?keyword=APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E4%B8%BA%E4%BD%95%E8%81%9A%E7%84%A6%E8%BF%99%E4%B8%89%E5%A4%A7%E9%A2%86%E5%9F%9F",
+            "title": "APEC紫藏着中国红和深圳蓝",
+            "url": "https://search.bilibili.com/all?keyword=APEC%E7%B4%AB%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%92%8C%E6%B7%B1%E5%9C%B3%E8%93%9D",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "高燃BLG一穿四夺冠短片",
-            "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E7%9F%AD%E7%89%87",
+            "title": "印尼驻华大使用中文歌祝福APEC",
+            "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%B0%BC%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E6%AD%8C%E7%A5%9D%E7%A6%8FAPEC",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "考研区年更UP主大牙考研上线了",
-            "url": "https://search.bilibili.com/all?keyword=%E8%80%83%E7%A0%94%E5%8C%BA%E5%B9%B4%E6%9B%B4UP%E4%B8%BB%E5%A4%A7%E7%89%99%E8%80%83%E7%A0%94%E4%B8%8A%E7%BA%BF%E4%BA%86",
+            "title": "BLG现场观战76人vs篮网",
+            "url": "https://search.bilibili.com/all?keyword=BLG%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%9876%E4%BA%BAvs%E7%AF%AE%E7%BD%91",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "食贫道闯关东吃饭故事上新",
-            "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E9%97%AF%E5%85%B3%E4%B8%9C%E5%90%83%E9%A5%AD%E6%95%85%E4%BA%8B%E4%B8%8A%E6%96%B0",
+            "title": "杨瀚森连送3次助攻",
+            "url": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E7%80%9A%E6%A3%AE%E8%BF%9E%E9%80%813%E6%AC%A1%E5%8A%A9%E6%94%BB",
             "hot": ""
           }
         ]
