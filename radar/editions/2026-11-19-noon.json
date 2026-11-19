@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-11-19_noon",
+  "slot": "noon",
+  "slotName": "午报",
+  "date": "2026-11-19",
+  "at": "2026-11-19T04:18:01.516Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "APEC重要讲话",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "特朗普在车内未拉窗帘欣赏深圳夜景",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BD%A6%E5%86%85%E6%9C%AA%E6%8B%89%E7%AA%97%E5%B8%98%E6%AC%A3%E8%B5%8F%E6%B7%B1%E5%9C%B3%E5%A4%9C%E6%99%AF%23&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "一图看中国与APEC经济体双向奔赴",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%B8%8EAPEC%E7%BB%8F%E6%B5%8E%E4%BD%93%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "普京特朗普APEC会议现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AEAPEC%E4%BC%9A%E8%AE%AE%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "后会友期",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "2026年APEC领导人非正式会议",
+          "url": "https://www.douyin.com/hot/2748427",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "普京特朗普欢迎晚宴互动握手",
+          "url": "https://www.douyin.com/hot/2753472",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "APEC吸引全球目光",
+          "url": "https://www.douyin.com/hot/2753657",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "普京到访深圳高校发表演讲",
+          "url": "https://www.douyin.com/hot/2752490",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "APEC美食硬控各国来宾",
+          "url": "https://www.douyin.com/hot/2753503",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "亚太大家庭的成员同在一条船上",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E5%A4%AA%E5%A4%A7%E5%AE%B6%E5%BA%AD%E7%9A%84%E6%88%90%E5%91%98%E5%90%8C%E5%9C%A8%E4%B8%80%E6%9D%A1%E8%88%B9%E4%B8%8A",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "中俄美元首同框",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "普京抵达APEC领导人非正式会议现场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BEAPEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E7%8E%B0%E5%9C%BA",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "APEC欢迎晚宴",
+          "url": "https://search.bilibili.com/all?keyword=APEC%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "特朗普抵达APEC领导人非正式会议现场",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BEAPEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E7%8E%B0%E5%9C%BA",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}
