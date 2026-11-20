@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-11-21_morning",
+  "slot": "morning",
+  "slotName": "早报",
+  "date": "2026-11-21",
+  "at": "2026-11-20T18:42:34.031Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "后会友期黄焖鸡事件原声视频",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E9%BB%84%E7%84%96%E9%B8%A1%E4%BA%8B%E4%BB%B6%E5%8E%9F%E5%A3%B0%E8%A7%86%E9%A2%91&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "DeepSeek付费体验直线上升",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "APEC盛会效应拉满",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E7%9B%9B%E4%BC%9A%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "王子璇问马天宇你不会爱上我",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E9%97%AE%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%BD%A0%E4%B8%8D%E4%BC%9A%E7%88%B1%E4%B8%8A%E6%88%91%23&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "张萌回应青稚打听式安慰",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E5%9B%9E%E5%BA%94%E9%9D%92%E7%A8%9A%E6%89%93%E5%90%AC%E5%BC%8F%E5%AE%89%E6%85%B0%23&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "U17男足0:5西班牙",
+          "url": "https://www.douyin.com/hot/2755170",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "泰国总理带夫人在深圳吃夜宵",
+          "url": "https://www.douyin.com/hot/2755542",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "亚太前沿领域机遇看中国",
+          "url": "https://www.douyin.com/hot/2755049",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "外交部回应高市早苗涉台问题表态",
+          "url": "https://www.douyin.com/hot/2756269",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "粤菜亮相APEC欢迎晚宴",
+          "url": "https://www.douyin.com/hot/2756285",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "中俄美元首历史性会晤为何在中国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%8E%86%E5%8F%B2%E6%80%A7%E4%BC%9A%E6%99%A4%E4%B8%BA%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "UP主解读AI声称证明黎曼猜想",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E5%A3%B0%E7%A7%B0%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "回看Bin这一年有多梦幻",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E7%9C%8BBin%E8%BF%99%E4%B8%80%E5%B9%B4%E6%9C%89%E5%A4%9A%E6%A2%A6%E5%B9%BB",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "AI攻破黎曼猜想声明细节",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%BB%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%A3%B0%E6%98%8E%E7%BB%86%E8%8A%82",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "DK官宣Doran和Kanavi加入",
+          "url": "https://search.bilibili.com/all?keyword=DK%E5%AE%98%E5%AE%A3Doran%E5%92%8CKanavi%E5%8A%A0%E5%85%A5",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}
