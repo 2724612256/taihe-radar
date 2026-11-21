@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-11-21_noon",
+  "slot": "noon",
+  "slotName": "午报",
+  "date": "2026-11-21",
+  "at": "2026-11-21T04:06:01.441Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "特朗普说看看深圳再看看我们",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%9C%8B%E7%9C%8B%E6%B7%B1%E5%9C%B3%E5%86%8D%E7%9C%8B%E7%9C%8B%E6%88%91%E4%BB%AC%23&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "韩国高考中国史题正确率不足一成",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E9%AB%98%E8%80%83%E4%B8%AD%E5%9B%BD%E5%8F%B2%E9%A2%98%E6%AD%A3%E7%A1%AE%E7%8E%87%E4%B8%8D%E8%B6%B3%E4%B8%80%E6%88%90&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "五中全会决定这些话要牢记",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A%E8%BF%99%E4%BA%9B%E8%AF%9D%E8%A6%81%E7%89%A2%E8%AE%B0%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "特朗普称不允许美企海外建数据中心",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%85%81%E8%AE%B8%E7%BE%8E%E4%BC%81%E6%B5%B7%E5%A4%96%E5%BB%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "胖东来搬离后原址所开新商场几乎倒闭",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%90%AC%E7%A6%BB%E5%90%8E%E5%8E%9F%E5%9D%80%E6%89%80%E5%BC%80%E6%96%B0%E5%95%86%E5%9C%BA%E5%87%A0%E4%B9%8E%E5%80%92%E9%97%AD%23&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "U17男足0:5西班牙",
+          "url": "https://www.douyin.com/hot/2755170",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "终于懂李白走到哪都写诗了",
+          "url": "https://www.douyin.com/hot/2756443",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "APEC红利看得见摸得着",
+          "url": "https://www.douyin.com/hot/2757148",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "美国三大股指全线大跌",
+          "url": "https://www.douyin.com/hot/2756930",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "贺炜长文鼓励U17中国队",
+          "url": "https://www.douyin.com/hot/2756959",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "AI证明黎曼猜想通过形式化验证",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E9%80%9A%E8%BF%87%E5%BD%A2%E5%BC%8F%E5%8C%96%E9%AA%8C%E8%AF%81",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "特朗普说看看深圳再看看我们",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%9C%8B%E7%9C%8B%E6%B7%B1%E5%9C%B3%E5%86%8D%E7%9C%8B%E7%9C%8B%E6%88%91%E4%BB%AC",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "鸣潮年度篇章实机演示",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%B9%B4%E5%BA%A6%E7%AF%87%E7%AB%A0%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "韩立再遇董萱儿",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "我国低轨30组卫星发射成功",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E4%BD%8E%E8%BD%A830%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}
