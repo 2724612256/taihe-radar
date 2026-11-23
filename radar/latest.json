@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T03:50:52.428Z",
+  "generatedAt": "2026-11-23T15:01:44.310Z",
   "edition": {
-    "id": "ed_2026-11-23_noon",
-    "slot": "noon",
-    "slotName": "午报",
+    "id": "ed_2026-11-23_evening",
+    "slot": "evening",
+    "slotName": "晚报",
     "date": "2026-11-23",
-    "at": "2026-11-23T03:50:52.428Z",
+    "at": "2026-11-23T15:01:44.310Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "许昌外卖小哥一句脆脆的带火炸鸡",
-            "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%8C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%80%E5%8F%A5%E8%84%86%E8%84%86%E7%9A%84%E5%B8%A6%E7%81%AB%E7%82%B8%E9%B8%A1&t=31&band_rank=1&Refer=top",
+            "title": "黄仁勋恢复英伟达CEO职务",
+            "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1%23&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "treetree的炸鸡外卖火到被迫成为门店",
-            "url": "https://s.weibo.com/weibo?q=%23treetree%E7%9A%84%E7%82%B8%E9%B8%A1%E5%A4%96%E5%8D%96%E7%81%AB%E5%88%B0%E8%A2%AB%E8%BF%AB%E6%88%90%E4%B8%BA%E9%97%A8%E5%BA%97%23&t=31&band_rank=2&Refer=top",
+            "title": "特朗普把抵达深圳照片打印出来了",
+            "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "一图解读我国消费市场多元图景",
-            "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%A7%A3%E8%AF%BB%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E5%A4%9A%E5%85%83%E5%9B%BE%E6%99%AF%23&t=31&band_rank=3&Refer=top",
+            "title": "开放的中国促合作共成长",
+            "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%94%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%83%E5%90%88%E4%BD%9C%E5%85%B1%E6%88%90%E9%95%BF%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "某部委员工与间谍合作泄密被判死刑",
-            "url": "https://s.weibo.com/weibo?q=%23%E6%9F%90%E9%83%A8%E5%A7%94%E5%91%98%E5%B7%A5%E4%B8%8E%E9%97%B4%E8%B0%8D%E5%90%88%E4%BD%9C%E6%B3%84%E5%AF%86%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23&t=31&band_rank=4&Refer=top",
+            "title": "英伟达盘前暴涨",
+            "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9B%98%E5%89%8D%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "人民日报评1991年张大爷烂梗",
-            "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%841991%E5%B9%B4%E5%BC%A0%E5%A4%A7%E7%88%B7%E7%83%82%E6%A2%97%23&t=31&band_rank=5&Refer=top",
+            "title": "金饰克价涨至1091元",
+            "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E6%B6%A8%E8%87%B31091%E5%85%83&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,32 +50,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "2027国考今起可打印准考证",
-            "url": "https://www.douyin.com/hot/2759410",
+            "title": "英伟达恢复黄仁勋CEO职务",
+            "url": "https://www.douyin.com/hot/2760751",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "黄山迎客松为何成为中国名片",
-            "url": "https://www.douyin.com/hot/2758415",
+            "title": "严肃进入舒服过冬模式",
+            "url": "https://www.douyin.com/hot/2759706",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "APEC“红利”看得见摸得着",
-            "url": "https://www.douyin.com/hot/2759209",
+            "title": "雪假撬动冰雪经济点燃消费引擎",
+            "url": "https://www.douyin.com/hot/2760653",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "韩国KOSPI指数开盘下跌2.77%",
-            "url": "https://www.douyin.com/hot/2759448",
+            "title": "万吨大驱将首次面向公众开放",
+            "url": "https://www.douyin.com/hot/2759659",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "现货黄金重返3600美元",
-            "url": "https://www.douyin.com/hot/2759470",
+            "title": "“一老一小”服务实施方案公布",
+            "url": "https://www.douyin.com/hot/2759574",
             "hot": ""
           }
         ]
@@ -86,32 +86,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "我国海军多型装备将公开展示",
-            "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%A4%9A%E5%9E%8B%E8%A3%85%E5%A4%87%E5%B0%86%E5%85%AC%E5%BC%80%E5%B1%95%E7%A4%BA",
+            "title": "英伟达恢复黄仁勋CEO职务",
+            "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "黎曼猜想究竟是什么",
-            "url": "https://search.bilibili.com/all?keyword=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88",
+            "title": "中国科学家破解蝗虫诡异行为",
+            "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%B4%E8%A7%A3%E8%9D%97%E8%99%AB%E8%AF%A1%E5%BC%82%E8%A1%8C%E4%B8%BA",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "27国考今起可打印准考证",
-            "url": "https://search.bilibili.com/all?keyword=27%E5%9B%BD%E8%80%83%E4%BB%8A%E8%B5%B7%E5%8F%AF%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81",
+            "title": "绿龙在BLAST暴露了哪些问题",
+            "url": "https://search.bilibili.com/all?keyword=%E7%BB%BF%E9%BE%99%E5%9C%A8BLAST%E6%9A%B4%E9%9C%B2%E4%BA%86%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "GTA6哪台主机表现好",
-            "url": "https://search.bilibili.com/all?keyword=GTA6%E5%93%AA%E5%8F%B0%E4%B8%BB%E6%9C%BA%E8%A1%A8%E7%8E%B0%E5%A5%BD",
+            "title": "AI剧 人类消失后的大肥鱼",
+            "url": "https://search.bilibili.com/all?keyword=AI%E5%89%A7%20%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "世界周刊APEC全球时刻",
-            "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8AAPEC%E5%85%A8%E7%90%83%E6%97%B6%E5%88%BB",
+            "title": "国内玩家集体上演道德与法治",
+            "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%86%85%E7%8E%A9%E5%AE%B6%E9%9B%86%E4%BD%93%E4%B8%8A%E6%BC%94%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB",
             "hot": ""
           }
         ]
