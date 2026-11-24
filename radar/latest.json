@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T22:08:27.187Z",
+  "generatedAt": "2026-11-24T06:59:24.607Z",
   "edition": {
-    "id": "ed_2026-11-24_morning",
-    "slot": "morning",
-    "slotName": "早报",
+    "id": "ed_2026-11-24_noon",
+    "slot": "noon",
+    "slotName": "午报",
     "date": "2026-11-24",
-    "at": "2026-11-23T22:08:27.187Z",
+    "at": "2026-11-24T06:59:24.607Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "黄仁勋复职原因",
-            "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=1&Refer=top",
+            "title": "万斯介入黄仁勋复职",
+            "url": "https://s.weibo.com/weibo?q=%23%E4%B8%87%E6%96%AF%E4%BB%8B%E5%85%A5%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%23&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "U17国足第99分钟被绝平",
-            "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B3%E7%AC%AC99%E5%88%86%E9%92%9F%E8%A2%AB%E7%BB%9D%E5%B9%B3&t=31&band_rank=2&Refer=top",
+            "title": "央视披露四川雅安无名女尸悬案",
+            "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%89%E6%97%A0%E5%90%8D%E5%A5%B3%E5%B0%B8%E6%82%AC%E6%A1%88%23&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "E法同行向上向海",
-            "url": "https://s.weibo.com/weibo?q=%23E%E6%B3%95%E5%90%8C%E8%A1%8C%E5%90%91%E4%B8%8A%E5%90%91%E6%B5%B7%23&t=31&band_rank=3&Refer=top",
+            "title": "全方位织密一老一小照护网",
+            "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B9%E4%BD%8D%E7%BB%87%E5%AF%86%E4%B8%80%E8%80%81%E4%B8%80%E5%B0%8F%E7%85%A7%E6%8A%A4%E7%BD%91%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "黄仁勋恢复英伟达CEO职务",
-            "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%81%A2%E5%A4%8D%E8%8B%B1%E4%BC%9F%E8%BE%BECEO%E8%81%8C%E5%8A%A1&t=31&band_rank=4&Refer=top",
+            "title": "49岁李维嘉家里干净得没有一根头发",
+            "url": "https://s.weibo.com/weibo?q=%2349%E5%B2%81%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%B6%E9%87%8C%E5%B9%B2%E5%87%80%E5%BE%97%E6%B2%A1%E6%9C%89%E4%B8%80%E6%A0%B9%E5%A4%B4%E5%8F%91%23&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "文吉儿风波的导火索",
-            "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF%E9%A3%8E%E6%B3%A2%E7%9A%84%E5%AF%BC%E7%81%AB%E7%B4%A2%23&t=31&band_rank=5&Refer=top",
+            "title": "BLG奖金收入断档第一",
+            "url": "https://s.weibo.com/weibo?q=%23BLG%E5%A5%96%E9%87%91%E6%94%B6%E5%85%A5%E6%96%AD%E6%A1%A3%E7%AC%AC%E4%B8%80%23&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,32 +50,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "甲亢哥百米能跑赢博尔特吗",
-            "url": "https://www.douyin.com/hot/2760780",
+            "title": "火箭116:104战胜快船",
+            "url": "https://www.douyin.com/hot/2761153",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "CFM沙漠灰真的下雪了",
-            "url": "https://www.douyin.com/hot/2760138",
+            "title": "草莓桶蛋糕一吃一个不吱声",
+            "url": "https://www.douyin.com/hot/2760838",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "雪假撬动冰雪经济点燃消费引擎",
-            "url": "https://www.douyin.com/hot/2760653",
+            "title": "各地优化住房公积金政策",
+            "url": "https://www.douyin.com/hot/2760953",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "严肃进入舒服过冬模式",
-            "url": "https://www.douyin.com/hot/2759706",
+            "title": "神二十四乘组名单公布",
+            "url": "https://www.douyin.com/hot/2760857",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "英伟达盘前大涨30%",
-            "url": "https://www.douyin.com/hot/2760770",
+            "title": "CFM沙漠灰真的下雪了",
+            "url": "https://www.douyin.com/hot/2760138",
             "hot": ""
           }
         ]
@@ -86,32 +86,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "黄仁勋重返英伟达详尽始末",
-            "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AF%A6%E5%B0%BD%E5%A7%8B%E6%9C%AB",
+            "title": "巴基斯坦航天员普通话自我介绍",
+            "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E6%99%AE%E9%80%9A%E8%AF%9D%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "中国科学家破解蝗虫诡异行为",
-            "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%B4%E8%A7%A3%E8%9D%97%E8%99%AB%E8%AF%A1%E5%BC%82%E8%A1%8C%E4%B8%BA",
+            "title": "蓝色星原涂山小玉PV",
+            "url": "https://search.bilibili.com/all?keyword=%E8%93%9D%E8%89%B2%E6%98%9F%E5%8E%9F%E6%B6%82%E5%B1%B1%E5%B0%8F%E7%8E%89PV",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "复联5终极预告",
-            "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E8%81%945%E7%BB%88%E6%9E%81%E9%A2%84%E5%91%8A",
+            "title": "中国造出已知最冷人造物质",
+            "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%87%BA%E5%B7%B2%E7%9F%A5%E6%9C%80%E5%86%B7%E4%BA%BA%E9%80%A0%E7%89%A9%E8%B4%A8",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "AI剧 人类消失后的大肥鱼",
-            "url": "https://search.bilibili.com/all?keyword=AI%E5%89%A7%20%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC",
+            "title": "BLG夺冠MV千早爱音版登神",
+            "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0MV%E5%8D%83%E6%97%A9%E7%88%B1%E9%9F%B3%E7%89%88%E7%99%BB%E7%A5%9E",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "狂哥Yekindar来B站秀中文",
-            "url": "https://search.bilibili.com/all?keyword=%E7%8B%82%E5%93%A5Yekindar%E6%9D%A5B%E7%AB%99%E7%A7%80%E4%B8%AD%E6%96%87",
+            "title": "中巴航天员共同唱响同一首歌",
+            "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%B7%B4%E8%88%AA%E5%A4%A9%E5%91%98%E5%85%B1%E5%90%8C%E5%94%B1%E5%93%8D%E5%90%8C%E4%B8%80%E9%A6%96%E6%AD%8C",
             "hot": ""
           }
         ]
