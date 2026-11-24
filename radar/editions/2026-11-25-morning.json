@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-11-25_morning",
+  "slot": "morning",
+  "slotName": "早报",
+  "date": "2026-11-25",
+  "at": "2026-11-24T20:45:10.280Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "特朗普对一道中国菜念念不忘",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "王牌对王牌第十季阵容",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E7%AC%AC%E5%8D%81%E5%AD%A3%E9%98%B5%E5%AE%B9%23&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "神24出征续写航天荣光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E24%E5%87%BA%E5%BE%81%E7%BB%AD%E5%86%99%E8%88%AA%E5%A4%A9%E8%8D%A3%E5%85%89%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "情侣包间求婚服务员推门打断要纸箱",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%8C%85%E9%97%B4%E6%B1%82%E5%A9%9A%E6%9C%8D%E5%8A%A1%E5%91%98%E6%8E%A8%E9%97%A8%E6%89%93%E6%96%AD%E8%A6%81%E7%BA%B8%E7%AE%B1%23&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "黄仁勋回归最大受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E6%9C%80%E5%A4%A7%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "上海市委书记陈吉宁被查",
+          "url": "https://www.douyin.com/hot/2762228",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "神二十四乘组名单公布",
+          "url": "https://www.douyin.com/hot/2760857",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "数字经济正成为用电增长新引擎",
+          "url": "https://www.douyin.com/hot/2762292",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "草莓桶蛋糕一吃一个不吱声",
+          "url": "https://www.douyin.com/hot/2760838",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "田秉毅出任国羽主教练",
+          "url": "https://www.douyin.com/hot/2762400",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "神舟二十四号载人飞船今日发射",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E8%BD%BD%E4%BA%BA%E9%A3%9E%E8%88%B9%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B0%84",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "Claude称证明计算机理论重大猜想",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A7%B0%E8%AF%81%E6%98%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%90%86%E8%AE%BA%E9%87%8D%E5%A4%A7%E7%8C%9C%E6%83%B3",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "微积分课来了0人是啥体验",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%AE%E7%A7%AF%E5%88%86%E8%AF%BE%E6%9D%A5%E4%BA%860%E4%BA%BA%E6%98%AF%E5%95%A5%E4%BD%93%E9%AA%8C",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "三大厂停产DDR4被诉垄断",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%A4%A7%E5%8E%82%E5%81%9C%E4%BA%A7DDR4%E8%A2%AB%E8%AF%89%E5%9E%84%E6%96%AD",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "大肥鱼把开源变成超能力",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8A%8A%E5%BC%80%E6%BA%90%E5%8F%98%E6%88%90%E8%B6%85%E8%83%BD%E5%8A%9B",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}
