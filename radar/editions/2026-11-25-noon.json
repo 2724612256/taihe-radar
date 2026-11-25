@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-11-25_noon",
+  "slot": "noon",
+  "slotName": "午报",
+  "date": "2026-11-25",
+  "at": "2026-11-25T05:31:51.736Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "可口可乐不再标生产日期",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E4%B8%8D%E5%86%8D%E6%A0%87%E7%94%9F%E4%BA%A7%E6%97%A5%E6%9C%9F%23&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "弟弟为独吞133万遗产翻脸不认姐姐",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%BA%E7%8B%AC%E5%90%9E133%E4%B8%87%E9%81%97%E4%BA%A7%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E5%A7%90%E5%A7%90%23&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "亚太合作鹏程万里",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "巴基斯坦航天员舱内笔下不停",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%88%B1%E5%86%85%E7%AC%94%E4%B8%8B%E4%B8%8D%E5%81%9C%23&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "巴基斯坦人齐唱国歌见证神舟发射",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BA%BA%E9%BD%90%E5%94%B1%E5%9B%BD%E6%AD%8C%E8%A7%81%E8%AF%81%E7%A5%9E%E8%88%9F%E5%8F%91%E5%B0%84%23&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "神舟二十四号发射圆满成功",
+          "url": "https://www.douyin.com/hot/2762618",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "85秒回顾神24发射",
+          "url": "https://www.douyin.com/hot/2762711",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "持续深化“一带一路”经贸合作",
+          "url": "https://www.douyin.com/hot/2762921",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "这个日常妆值得焊在脸上",
+          "url": "https://www.douyin.com/hot/2762154",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "上海市委书记陈吉宁被查",
+          "url": "https://www.douyin.com/hot/2762228",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "神舟二十四号发射圆满成功",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "黎曼猜想证明者说25万页是玩笑",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E%E8%80%85%E8%AF%B425%E4%B8%87%E9%A1%B5%E6%98%AF%E7%8E%A9%E7%AC%91",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "美国两州起诉SpaceX",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%B7%9E%E8%B5%B7%E8%AF%89SpaceX",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "Knight和Xun公开选皮肤原则",
+          "url": "https://search.bilibili.com/all?keyword=Knight%E5%92%8CXun%E5%85%AC%E5%BC%80%E9%80%89%E7%9A%AE%E8%82%A4%E5%8E%9F%E5%88%99",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "神舟二十四号发射升空",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}
