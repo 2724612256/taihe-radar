@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T05:31:51.736Z",
+  "generatedAt": "2026-11-25T14:41:47.852Z",
   "edition": {
-    "id": "ed_2026-11-25_noon",
-    "slot": "noon",
-    "slotName": "午报",
+    "id": "ed_2026-11-25_evening",
+    "slot": "evening",
+    "slotName": "晚报",
     "date": "2026-11-25",
-    "at": "2026-11-25T05:31:51.736Z",
+    "at": "2026-11-25T14:41:47.852Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "可口可乐不再标生产日期",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E4%B8%8D%E5%86%8D%E6%A0%87%E7%94%9F%E4%BA%A7%E6%97%A5%E6%9C%9F%23&t=31&band_rank=1&Refer=top",
+            "title": "高考667分高颜值学霸回应转行当演员",
+            "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83667%E5%88%86%E9%AB%98%E9%A2%9C%E5%80%BC%E5%AD%A6%E9%9C%B8%E5%9B%9E%E5%BA%94%E8%BD%AC%E8%A1%8C%E5%BD%93%E6%BC%94%E5%91%98%23&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "弟弟为独吞133万遗产翻脸不认姐姐",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E4%B8%BA%E7%8B%AC%E5%90%9E133%E4%B8%87%E9%81%97%E4%BA%A7%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E5%A7%90%E5%A7%90%23&t=31&band_rank=2&Refer=top",
+            "title": "谷爱凌肩膀脱臼",
+            "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%82%A9%E8%86%80%E8%84%B1%E8%87%BC%23&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "亚太合作鹏程万里",
-            "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%B9%8F%E7%A8%8B%E4%B8%87%E9%87%8C%23&t=31&band_rank=3&Refer=top",
+            "title": "神24乘组进驻天宫",
+            "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "巴基斯坦航天员舱内笔下不停",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E8%88%B1%E5%86%85%E7%AC%94%E4%B8%8B%E4%B8%8D%E5%81%9C%23&t=31&band_rank=4&Refer=top",
+            "title": "青龙奖",
+            "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E9%BE%99%E5%A5%96&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "巴基斯坦人齐唱国歌见证神舟发射",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BA%BA%E9%BD%90%E5%94%B1%E5%9B%BD%E6%AD%8C%E8%A7%81%E8%AF%81%E7%A5%9E%E8%88%9F%E5%8F%91%E5%B0%84%23&t=31&band_rank=5&Refer=top",
+            "title": "伊能静说许飞有一点假大方",
+            "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E8%AF%B4%E8%AE%B8%E9%A3%9E%E6%9C%89%E4%B8%80%E7%82%B9%E5%81%87%E5%A4%A7%E6%96%B9%23&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,32 +50,32 @@
         "items": [
           {
             "rank": 1,
+            "title": "T1官宣Zeus回归",
+            "url": "https://www.douyin.com/hot/2764326",
+            "hot": ""
+          },
+          {
+            "rank": 2,
             "title": "神舟二十四号发射圆满成功",
             "url": "https://www.douyin.com/hot/2762618",
             "hot": ""
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "title": "亚太合作鹏程万里",
+            "url": "https://www.douyin.com/hot/2763840",
+            "hot": ""
+          },
+          {
+            "rank": 4,
             "title": "85秒回顾神24发射",
             "url": "https://www.douyin.com/hot/2762711",
             "hot": ""
           },
           {
-            "rank": 3,
-            "title": "持续深化“一带一路”经贸合作",
-            "url": "https://www.douyin.com/hot/2762921",
-            "hot": ""
-          },
-          {
-            "rank": 4,
-            "title": "这个日常妆值得焊在脸上",
-            "url": "https://www.douyin.com/hot/2762154",
-            "hot": ""
-          },
-          {
             "rank": 5,
-            "title": "上海市委书记陈吉宁被查",
-            "url": "https://www.douyin.com/hot/2762228",
+            "title": "挖着吃的草莓桶蛋糕更好吃",
+            "url": "https://www.douyin.com/hot/2763426",
             "hot": ""
           }
         ]
@@ -92,26 +92,26 @@
           },
           {
             "rank": 2,
-            "title": "黎曼猜想证明者说25万页是玩笑",
-            "url": "https://search.bilibili.com/all?keyword=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E%E8%80%85%E8%AF%B425%E4%B8%87%E9%A1%B5%E6%98%AF%E7%8E%A9%E7%AC%91",
+            "title": "我国将出现至少两轮大范围升温",
+            "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E5%B0%86%E5%87%BA%E7%8E%B0%E8%87%B3%E5%B0%91%E4%B8%A4%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%8D%87%E6%B8%A9",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "美国两州起诉SpaceX",
-            "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%B7%9E%E8%B5%B7%E8%AF%89SpaceX",
+            "title": "爱情公寓导演韦正来B站了",
+            "url": "https://search.bilibili.com/all?keyword=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E5%AF%BC%E6%BC%94%E9%9F%A6%E6%AD%A3%E6%9D%A5B%E7%AB%99%E4%BA%86",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "Knight和Xun公开选皮肤原则",
-            "url": "https://search.bilibili.com/all?keyword=Knight%E5%92%8CXun%E5%85%AC%E5%BC%80%E9%80%89%E7%9A%AE%E8%82%A4%E5%8E%9F%E5%88%99",
+            "title": "哥德巴赫猜想会不会被AI证明",
+            "url": "https://search.bilibili.com/all?keyword=%E5%93%A5%E5%BE%B7%E5%B7%B4%E8%B5%AB%E7%8C%9C%E6%83%B3%E4%BC%9A%E4%B8%8D%E4%BC%9A%E8%A2%ABAI%E8%AF%81%E6%98%8E",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "神舟二十四号发射升空",
-            "url": "https://search.bilibili.com/all?keyword=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA",
+            "title": "中国空间站 从住标间到三室一厅",
+            "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%20%E4%BB%8E%E4%BD%8F%E6%A0%87%E9%97%B4%E5%88%B0%E4%B8%89%E5%AE%A4%E4%B8%80%E5%8E%85",
             "hot": ""
           }
         ]
