@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T20:01:38.523Z",
+  "generatedAt": "2026-11-26T05:13:49.529Z",
   "edition": {
-    "id": "ed_2026-11-26_morning",
-    "slot": "morning",
-    "slotName": "早报",
+    "id": "ed_2026-11-26_noon",
+    "slot": "noon",
+    "slotName": "午报",
     "date": "2026-11-26",
-    "at": "2026-11-25T20:01:38.523Z",
+    "at": "2026-11-26T05:13:49.529Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "金价扛不住了",
-            "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+            "title": "普京打包深圳炒菜上飞机",
+            "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%89%93%E5%8C%85%E6%B7%B1%E5%9C%B3%E7%82%92%E8%8F%9C%E4%B8%8A%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "ON BLG",
-            "url": "https://s.weibo.com/weibo?q=ON%20BLG&t=31&band_rank=2&Refer=top",
+            "title": "画地为牢终于来了",
+            "url": "https://s.weibo.com/weibo?q=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "神24乘组进驻天宫",
-            "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB%23&t=31&band_rank=3&Refer=top",
+            "title": "新一代通信网建设实施方案来了",
+            "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91%E5%BB%BA%E8%AE%BE%E5%AE%9E%E6%96%BD%E6%96%B9%E6%A1%88%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "许飞乐意看厉娜哭还有后半句",
-            "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E4%B9%90%E6%84%8F%E7%9C%8B%E5%8E%89%E5%A8%9C%E5%93%AD%E8%BF%98%E6%9C%89%E5%90%8E%E5%8D%8A%E5%8F%A5&t=31&band_rank=4&Refer=top",
+            "title": "厉娜给许飞擦眼泪说我陪着你",
+            "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E7%BB%99%E8%AE%B8%E9%A3%9E%E6%93%A6%E7%9C%BC%E6%B3%AA%E8%AF%B4%E6%88%91%E9%99%AA%E7%9D%80%E4%BD%A0&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "成毅两京十五日台网双爆了",
-            "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%B0%E7%BD%91%E5%8F%8C%E7%88%86%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+            "title": "蔡磊已进渐冻症终末期",
+            "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F%23&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,32 +50,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "神舟二十四号发射圆满成功",
-            "url": "https://www.douyin.com/hot/2762618",
+            "title": "76人111:104热火",
+            "url": "https://www.douyin.com/hot/2764663",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "挖着吃的草莓桶蛋糕更好吃",
-            "url": "https://www.douyin.com/hot/2763426",
+            "title": "今晚24时油价预计下调",
+            "url": "https://www.douyin.com/hot/2765035",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "亚太合作鹏程万里",
-            "url": "https://www.douyin.com/hot/2763840",
+            "title": "我国已建成超10亿亩高标准农田",
+            "url": "https://www.douyin.com/hot/2764955",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "T1官宣Zeus回归",
-            "url": "https://www.douyin.com/hot/2764326",
+            "title": "冰封玫瑰是哈尔滨冬日独有的浪漫",
+            "url": "https://www.douyin.com/hot/2763652",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "冷都女氛围感搭配技巧",
-            "url": "https://www.douyin.com/hot/2764637",
+            "title": "清迈的天灯节也太美了吧",
+            "url": "https://www.douyin.com/hot/2764756",
             "hot": ""
           }
         ]
@@ -86,32 +86,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "神舟二十四号发射圆满成功",
-            "url": "https://search.bilibili.com/all?keyword=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F",
+            "title": "神舟二十四号飞船发射全记录",
+            "url": "https://search.bilibili.com/all?keyword=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E9%A3%9E%E8%88%B9%E5%8F%91%E5%B0%84%E5%85%A8%E8%AE%B0%E5%BD%95",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "爱情公寓导演韦正来B站了",
-            "url": "https://search.bilibili.com/all?keyword=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E5%AF%BC%E6%BC%94%E9%9F%A6%E6%AD%A3%E6%9D%A5B%E7%AB%99%E4%BA%86",
+            "title": "蓝色星原公测版本PV",
+            "url": "https://search.bilibili.com/all?keyword=%E8%93%9D%E8%89%B2%E6%98%9F%E5%8E%9F%E5%85%AC%E6%B5%8B%E7%89%88%E6%9C%ACPV",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "我国将出现至少两轮大范围升温",
-            "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E5%B0%86%E5%87%BA%E7%8E%B0%E8%87%B3%E5%B0%91%E4%B8%A4%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%8D%87%E6%B8%A9",
+            "title": "AI证实黎曼猜想数学博士集体眩晕",
+            "url": "https://search.bilibili.com/all?keyword=AI%E8%AF%81%E5%AE%9E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E6%95%B0%E5%AD%A6%E5%8D%9A%E5%A3%AB%E9%9B%86%E4%BD%93%E7%9C%A9%E6%99%95",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "中国空间站 从住标间到三室一厅",
-            "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%20%E4%BB%8E%E4%BD%8F%E6%A0%87%E9%97%B4%E5%88%B0%E4%B8%89%E5%AE%A4%E4%B8%80%E5%8E%85",
+            "title": "Zeus称BLG夺冠看得很过瘾",
+            "url": "https://search.bilibili.com/all?keyword=Zeus%E7%A7%B0BLG%E5%A4%BA%E5%86%A0%E7%9C%8B%E5%BE%97%E5%BE%88%E8%BF%87%E7%98%BE",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "RTX5070跌幅有多猛",
-            "url": "https://search.bilibili.com/all?keyword=RTX5070%E8%B7%8C%E5%B9%85%E6%9C%89%E5%A4%9A%E7%8C%9B",
+            "title": "76人战胜热火 詹姆斯三双",
+            "url": "https://search.bilibili.com/all?keyword=76%E4%BA%BA%E6%88%98%E8%83%9C%E7%83%AD%E7%81%AB%20%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%89%E5%8F%8C",
             "hot": ""
           }
         ]
