@@ -1,0 +1,117 @@
+{
+  "id": "ed_2026-11-26_evening",
+  "slot": "evening",
+  "slotName": "晚报",
+  "date": "2026-11-26",
+  "at": "2026-11-26T14:04:12.750Z",
+  "platforms": [
+    {
+      "key": "weibo",
+      "name": "微博",
+      "items": [
+        {
+          "rank": 1,
+          "title": "武大教师曾某某被举报事件调查结果",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%95%99%E5%B8%88%E6%9B%BE%E6%9F%90%E6%9F%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=1&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "董明珠称汽车行业有老鼠",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E6%9C%89%E8%80%81%E9%BC%A0&t=31&band_rank=2&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "点赞长春大冬会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%B5%9E%E9%95%BF%E6%98%A5%E5%A4%A7%E5%86%AC%E4%BC%9A%23&t=31&band_rank=3&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "厉娜预判了网友的预判",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E9%A2%84%E5%88%A4%E4%BA%86%E7%BD%91%E5%8F%8B%E7%9A%84%E9%A2%84%E5%88%A4%23&t=31&band_rank=4&Refer=top",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "神23回地球",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E23%E5%9B%9E%E5%9C%B0%E7%90%83%23&t=31&band_rank=5&Refer=top",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "douyin",
+      "name": "抖音",
+      "items": [
+        {
+          "rank": 1,
+          "title": "U17国足迎战斐济争出线",
+          "url": "https://www.douyin.com/hot/2765896",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "中宣部原副部长蔡赴朝被开除党籍",
+          "url": "https://www.douyin.com/hot/2766195",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "2026世界市长对话乌鲁木齐",
+          "url": "https://www.douyin.com/hot/2766450",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "武大通报教师曾某某被举报事件",
+          "url": "https://www.douyin.com/hot/2766408",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "世预赛中国男篮迎战沙特",
+          "url": "https://www.douyin.com/hot/2766559",
+          "hot": ""
+        }
+      ]
+    },
+    {
+      "key": "bilibili",
+      "name": "B站",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美军就地引爆万磅铅炸药有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%B0%B1%E5%9C%B0%E5%BC%95%E7%88%86%E4%B8%87%E7%A3%85%E9%93%85%E7%82%B8%E8%8D%AF%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "hot": ""
+        },
+        {
+          "rank": 2,
+          "title": "Zeus回归T1能否影响LPL格局",
+          "url": "https://search.bilibili.com/all?keyword=Zeus%E5%9B%9E%E5%BD%92T1%E8%83%BD%E5%90%A6%E5%BD%B1%E5%93%8DLPL%E6%A0%BC%E5%B1%80",
+          "hot": ""
+        },
+        {
+          "rank": 3,
+          "title": "联合国气候谈判失败",
+          "url": "https://search.bilibili.com/all?keyword=%E8%81%94%E5%90%88%E5%9B%BD%E6%B0%94%E5%80%99%E8%B0%88%E5%88%A4%E5%A4%B1%E8%B4%A5",
+          "hot": ""
+        },
+        {
+          "rank": 4,
+          "title": "国考政治理论3h聚焦速成",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%80%83%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA3h%E8%81%9A%E7%84%A6%E9%80%9F%E6%88%90",
+          "hot": ""
+        },
+        {
+          "rank": 5,
+          "title": "考公大神陈怀安带你考前冲刺",
+          "url": "https://search.bilibili.com/all?keyword=%E8%80%83%E5%85%AC%E5%A4%A7%E7%A5%9E%E9%99%88%E6%80%80%E5%AE%89%E5%B8%A6%E4%BD%A0%E8%80%83%E5%89%8D%E5%86%B2%E5%88%BA",
+          "hot": ""
+        }
+      ]
+    }
+  ]
+}
