@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T19:44:07.028Z",
+  "generatedAt": "2026-11-27T05:11:57.580Z",
   "edition": {
-    "id": "ed_2026-11-27_morning",
-    "slot": "morning",
-    "slotName": "早报",
+    "id": "ed_2026-11-27_noon",
+    "slot": "noon",
+    "slotName": "午报",
     "date": "2026-11-27",
-    "at": "2026-11-26T19:44:07.028Z",
+    "at": "2026-11-27T05:11:57.580Z",
     "platforms": [
       {
         "key": "weibo",
@@ -14,32 +14,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "三只松鼠致歉声明",
-            "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=1&Refer=top",
+            "title": "海康威视取消大小周遭员工抵制",
+            "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E5%8F%96%E6%B6%88%E5%A4%A7%E5%B0%8F%E5%91%A8%E9%81%AD%E5%91%98%E5%B7%A5%E6%8A%B5%E5%88%B6%23&t=31&band_rank=1&Refer=top",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "中纪委一天连打三虎",
-            "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B8%80%E5%A4%A9%E8%BF%9E%E6%89%93%E4%B8%89%E8%99%8E%23&t=31&band_rank=2&Refer=top",
+            "title": "被大疆竞业范围震撼到了",
+            "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E5%A4%A7%E7%96%86%E7%AB%9E%E4%B8%9A%E8%8C%83%E5%9B%B4%E9%9C%87%E6%92%BC%E5%88%B0%E4%BA%86&t=31&band_rank=2&Refer=top",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "从5到24看载人航天之路",
-            "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E5%E5%88%B024%E7%9C%8B%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E4%B9%8B%E8%B7%AF%23&t=31&band_rank=3&Refer=top",
+            "title": "服务贸易发展十五五规划来了",
+            "url": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "算了吧许飞别爱了",
-            "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E4%BA%86%E5%90%A7%E8%AE%B8%E9%A3%9E%E5%88%AB%E7%88%B1%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+            "title": "女子因超40岁被酒店拒办入住",
+            "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E8%B6%8540%E5%B2%81%E8%A2%AB%E9%85%92%E5%BA%97%E6%8B%92%E5%8A%9E%E5%85%A5%E4%BD%8F%23&t=31&band_rank=4&Refer=top",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "前排全部在质问厉娜",
-            "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E6%8E%92%E5%85%A8%E9%83%A8%E5%9C%A8%E8%B4%A8%E9%97%AE%E5%8E%89%E5%A8%9C%23&t=31&band_rank=5&Refer=top",
+            "title": "文吉儿不止邀请过王子璇",
+            "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF%E4%B8%8D%E6%AD%A2%E9%82%80%E8%AF%B7%E8%BF%87%E7%8E%8B%E5%AD%90%E7%92%87%23&t=31&band_rank=5&Refer=top",
             "hot": ""
           }
         ]
@@ -50,7 +50,7 @@
         "items": [
           {
             "rank": 1,
-            "title": "U17国足迎战斐济争出线",
+            "title": "U17国足8:0斐济",
             "url": "https://www.douyin.com/hot/2765896",
             "hot": ""
           },
@@ -62,20 +62,20 @@
           },
           {
             "rank": 3,
-            "title": "2026世界市长对话乌鲁木齐",
-            "url": "https://www.douyin.com/hot/2766450",
+            "title": "我国将加快培育服务贸易发展新动能",
+            "url": "https://www.douyin.com/hot/2766617",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "欧联奥林匹亚科斯vsAC米兰",
-            "url": "https://www.douyin.com/hot/2765893",
+            "title": "今日起电视开机广告没了",
+            "url": "https://www.douyin.com/hot/2767222",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "中方回应美国称对华加征关税",
-            "url": "https://www.douyin.com/hot/2765677",
+            "title": "2026广州车展开幕",
+            "url": "https://www.douyin.com/hot/2767065",
             "hot": ""
           }
         ]
@@ -86,32 +86,32 @@
         "items": [
           {
             "rank": 1,
-            "title": "黎曼猜想1700万行证明变7.6万行",
-            "url": "https://search.bilibili.com/all?keyword=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B31700%E4%B8%87%E8%A1%8C%E8%AF%81%E6%98%8E%E5%8F%987.6%E4%B8%87%E8%A1%8C",
+            "title": "罗小黑无限给小白家长送礼",
+            "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%B0%8F%E9%BB%91%E6%97%A0%E9%99%90%E7%BB%99%E5%B0%8F%E7%99%BD%E5%AE%B6%E9%95%BF%E9%80%81%E7%A4%BC",
             "hot": ""
           },
           {
             "rank": 2,
-            "title": "中国男篮爆冷不敌沙特",
-            "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9",
+            "title": "欢迎来龙餐馆B站上线",
+            "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86B%E7%AB%99%E4%B8%8A%E7%BA%BF",
             "hot": ""
           },
           {
             "rank": 3,
-            "title": "U17国足8球大胜斐济后出线",
-            "url": "https://search.bilibili.com/all?keyword=U17%E5%9B%BD%E8%B6%B38%E7%90%83%E5%A4%A7%E8%83%9C%E6%96%90%E6%B5%8E%E5%90%8E%E5%87%BA%E7%BA%BF",
+            "title": "DeepSeek上线价格计算功能",
+            "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%8A%E7%BA%BF%E4%BB%B7%E6%A0%BC%E8%AE%A1%E7%AE%97%E5%8A%9F%E8%83%BD",
             "hot": ""
           },
           {
             "rank": 4,
-            "title": "41岁詹姆斯为何还能连续砍分",
-            "url": "https://search.bilibili.com/all?keyword=41%E5%B2%81%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%BA%E4%BD%95%E8%BF%98%E8%83%BD%E8%BF%9E%E7%BB%AD%E7%A0%8D%E5%88%86",
+            "title": "食贫道探寻台湾何以当归",
+            "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E6%8E%A2%E5%AF%BB%E5%8F%B0%E6%B9%BE%E4%BD%95%E4%BB%A5%E5%BD%93%E5%BD%92",
             "hot": ""
           },
           {
             "rank": 5,
-            "title": "Zeus回归T1能否影响LPL格局",
-            "url": "https://search.bilibili.com/all?keyword=Zeus%E5%9B%9E%E5%BD%92T1%E8%83%BD%E5%90%A6%E5%BD%B1%E5%93%8DLPL%E6%A0%BC%E5%B1%80",
+            "title": "OpenAI发布重量级物理论文",
+            "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E9%87%8D%E9%87%8F%E7%BA%A7%E7%89%A9%E7%90%86%E8%AE%BA%E6%96%87",
             "hot": ""
           }
         ]
